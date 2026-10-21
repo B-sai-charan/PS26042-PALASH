@@ -1,0 +1,31 @@
+﻿id,hindi,santali,grade,subject,topic,learning_outcome,validation_status
+1,"एक, दो, तीन गिनो।","ᱢᱤᱫ, ᱵᱟᱨ, ᱯᱮ ᱨᱮᱠᱚᱲ ᱢᱮ।",Grade 1,Mathematics,Numbers/counting,Count objects from 1 to 3,model_generated_unverified
+2,एक से पाँच तक गिनो।,ᱢᱤᱫ ᱠᱷᱚᱱ ᱢᱚᱦᱲᱮᱫ ᱚᱫᱚᱠ ᱨᱮᱠᱚᱲ ᱢᱮ।,Grade 1,Mathematics,Numbers/counting,Count from 1 to 5,model_generated_unverified
+3,कितने आम हैं?,ᱚᱛᱮ ᱟᱸᱵᱚ ᱢᱮᱱᱟᱜᱼᱟ?,Grade 1,Mathematics,Numbers/counting,Identify the quantity of objects,model_generated_unverified
+4,चार के बाद कौन-सी संख्या आती है?,ᱯᱩᱱ ᱛᱟᱭᱚᱢ ᱚᱠᱟ ᱟᱸᱠ ᱦᱩᱭ ᱟᱭ?,Grade 1,Mathematics,Numbers/counting,Identify the next number,model_generated_unverified
+5,दस तक गिनती बोलो।,ᱜᱮᱞ ᱚᱫᱚᱠ ᱨᱮᱠᱚᱲ ᱢᱮ।,Grade 1,Mathematics,Numbers/counting,Recite numbers up to 10,model_generated_unverified
+6,दो और तीन को जोड़ने पर कितने होंगे?,ᱵᱟᱨ ᱟᱨ ᱯᱮ ᱥᱮᱞᱮᱫ ᱠᱟᱛᱮ ᱚᱛᱮ ᱦᱩᱭᱟᱭ?,Grade 1,Mathematics,Basic mathematics,Add two small numbers,model_generated_unverified
+7,पाँच में से एक घटाने पर कितने बचेंगे?,ᱢᱚᱦᱲᱮᱫ ᱠᱷᱚᱱ ᱢᱤᱫ ᱵᱟᱫ ᱚᱛᱮ ᱟᱸᱪᱟᱜᱟ?,Grade 1,Mathematics,Basic mathematics,Subtract one from a small number,model_generated_unverified
+8,एक टोकरी में तीन आम और दूसरी में दो आम हैं। कुल कितने आम हैं?,ᱢᱤᱫ ᱴᱚᱠᱟᱨᱤ ᱨᱮ ᱯᱮ ᱟᱸᱵᱚ ᱟᱨ ᱮᱴᱟᱜ ᱨᱮ ᱵᱟᱨ ᱟᱸᱵᱚ ᱢᱮᱱᱟᱜᱼᱟ। ᱡᱚᱛᱚ ᱚᱛᱮ ᱟᱸᱵᱚ ᱢᱮᱱᱟᱜᱼᱟ?,Grade 1,Mathematics,Basic mathematics,Solve a simple addition word problem,model_generated_unverified
+9,कौन-सी संख्या बड़ी है: चार या सात?,ᱚᱠᱟ ᱟᱸᱠ ᱢᱟᱨᱟᱝ ᱠᱟᱱᱟ: ᱯᱩᱱ ᱟᱨ ᱮᱭᱟᱭ?,Grade 1,Mathematics,Basic mathematics,Compare two numbers,model_generated_unverified
+10,आठ में दो जोड़ो।,ᱟᱨᱮ ᱨᱮ ᱵᱟᱨ ᱥᱮᱞᱮᱫ ᱢᱮ।,Grade 1,Mathematics,Basic mathematics,Add two to a number,model_generated_unverified
+11,यह कौन-सा आकार है: गोल या चौकोर?,ᱱᱚᱶᱟ ᱚᱠᱟ ᱨᱩᱯ ᱠᱟᱱᱟ: ᱜᱚᱞ ᱠᱟᱱᱟ ᱟᱨ ᱪᱚᱠᱚᱨ ᱠᱟᱱᱟ?,Grade 1,Mathematics,Shapes,Identify basic shapes,model_generated_unverified
+12,वृत्त में कितने कोने होते हैं?,ᱜᱚᱞ ᱨᱮ ᱚᱛᱮ ᱠᱚᱱᱟ ᱢᱮᱱᱟᱜᱼᱟ?,Grade 1,Mathematics,Shapes,Recognize properties of a circle,model_generated_unverified
+13,त्रिभुज की कितनी भुजाएँ होती हैं?,ᱛᱤᱨᱤᱠᱳᱱ ᱨᱮ ᱚᱛᱮ ᱵᱟᱦᱟ ᱢᱮᱱᱟᱜᱼᱟ?,Grade 1,Mathematics,Shapes,Identify the number of sides in a triangle,model_generated_unverified
+14,चौकोर आकार की वस्तु ढूँढो।,ᱪᱚᱠᱚᱨ ᱨᱩᱯ ᱟᱜ ᱟᱸᱵᱚ ᱫᱟᱲᱮᱭᱟᱜ ᱢᱮ।,Grade 1,Mathematics,Shapes,Identify square-shaped objects,model_generated_unverified
+15,यह शब्द पढ़ो: घर।,ᱱᱚᱶᱟ ᱚᱲᱟᱜ ᱯᱟᱲᱦᱟᱣ ᱢᱮ।,Grade 1,Language,Basic reading,Read a familiar Hindi word,model_generated_unverified
+16,चित्र देखकर शब्द बोलो।,ᱪᱤᱛᱟᱨ ᱧᱮᱞ ᱠᱟᱛᱮ ᱚᱲᱟᱜ ᱢᱮᱱ ᱢᱮ।,Grade 1,Language,Basic reading,Name an object from a picture,model_generated_unverified
+17,‘कमल’ शब्द में पहला अक्षर कौन-सा है?,'ᱠᱚᱢᱚᱞ' ᱚᱲᱟᱜ ᱨᱮ ᱯᱩᱭᱞᱩ ᱚᱠᱟ ᱟᱠᱷᱚᱨ ᱠᱟᱱᱟ?,Grade 1,Language,Basic reading,Identify the first letter of a word,model_generated_unverified
+18,इस वाक्य को पढ़ो: राम घर जाता है।,ᱱᱚᱶᱟ ᱠᱟᱴᱷᱟ ᱯᱟᱲᱦᱟᱣ ᱢᱮ: ᱨᱟᱢ ᱚᱲᱟᱜ ᱛᱮ ᱪᱟᱞᱟᱜ ᱠᱟᱱᱟ।,Grade 1,Language,Basic reading,Read a simple sentence,model_generated_unverified
+19,अपनी किताब खोलो।,ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤ ᱛᱚᱦᱚᱭ ᱢᱮ।,Grade 1,Language,Classroom instructions,Follow a basic classroom instruction,model_generated_unverified
+20,सब बच्चे ध्यान से सुनो।,ᱡᱚᱛᱚ ᱦᱚᱰᱚᱠᱚ ᱛᱮᱦᱮᱧ ᱛᱮ ᱟᱭᱩᱢ ᱢᱮ।,Grade 1,Language,Classroom instructions,Follow an instruction to listen attentively,model_generated_unverified
+21,अपना नाम लिखो।,ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱚᱞ ᱢᱮ।,Grade 1,Language,Classroom instructions,Write one's name,model_generated_unverified
+22,कक्षा में शांति से बैठो।,ᱠᱚᱴᱷᱟ ᱨᱮ ᱥᱟᱱᱛᱤ ᱛᱮ ᱚᱠᱟ ᱢᱮ।,Grade 1,Language,Classroom instructions,Follow a classroom behavior instruction,model_generated_unverified
+23,चित्र में लाल वस्तु पर गोला लगाओ।,ᱪᱤᱛᱟᱨ ᱨᱮ ᱟᱨᱟᱜ ᱟᱸᱵᱚ ᱨᱮ ᱚᱲᱟᱜ ᱰᱟᱦᱟᱨ ᱠᱟᱴᱚ ᱢᱮ।,Grade 1,EVS,Activities,Identify a specified color in a picture,model_generated_unverified
+24,तीन वस्तुएँ गिनकर लिखो।,ᱯᱮ ᱟᱸᱵᱚ ᱨᱮᱠᱚᱲ ᱠᱟᱛᱮ ᱚᱞ ᱢᱮ।,Grade 1,Mathematics,Activities,Count objects and record the number,model_generated_unverified
+25,आकारों को उनके नाम से मिलाओ।,ᱨᱩᱯ ᱠᱚ ᱟᱨ ᱟᱲᱟᱜ ᱧᱩᱛᱩᱢ ᱠᱚ ᱠᱚᱢᱵᱚᱲ ᱢᱮ।,Grade 1,Mathematics,Activities,Match basic shapes with their names,model_generated_unverified
+26,चित्र में सबसे बड़ी वस्तु पर निशान लगाओ।,ᱪᱤᱛᱟᱨ ᱨᱮ ᱢᱟᱨᱟᱝ ᱟᱸᱵᱚ ᱨᱮ ᱪᱤᱱ ᱚᱲᱟᱜ ᱢᱮ।,Grade 1,EVS,Activities,Identify the largest object,model_generated_unverified
+27,तीन के बाद कौन-सी संख्या आती है?,ᱯᱮ ᱛᱟᱭᱚᱢ ᱚᱠᱟ ᱟᱸᱠ ᱦᱩᱭ ᱟᱭ?,Grade 1,Mathematics,Assessment questions,Identify the next number in sequence,model_generated_unverified
+28,दो और दो कितने होते हैं?,ᱵᱟᱨ ᱟᱨ ᱵᱟᱨ ᱚᱛᱮ ᱦᱩᱭᱟᱭ?,Grade 1,Mathematics,Assessment questions,Perform simple addition,model_generated_unverified
+29,त्रिभुज में कितनी भुजाएँ होती हैं?,ᱛᱤᱨᱤᱠᱳᱱ ᱨᱮ ᱚᱛᱮ ᱵᱟᱦᱟ ᱢᱮᱱᱟᱜᱼᱟ?,Grade 1,Mathematics,Assessment questions,Recall the number of sides of a triangle,model_generated_unverified
+30,‘घर’ शब्द का पहला अक्षर बताओ।,'ᱚᱲᱟᱜ' ᱚᱲᱟᱜ ᱟᱜ ᱯᱩᱭᱞᱩ ᱟᱠᱷᱚᱨ ᱢᱮᱱ ᱢᱮ।,Grade 1,Language,Assessment questions,Identify the first letter of a familiar word,model_generated_unverified

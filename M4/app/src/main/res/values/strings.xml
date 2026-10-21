@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पलाश</string>
+
+    <!-- Role Selection -->
+    <string name="welcome_title">पलाश में आपका स्वागत है</string>
+    <string name="role_selection_subtitle">Select your device role for the offline classroom</string>
+    <string name="teacher_role_title">👨‍🏫 I am a Teacher</string>
+    <string name="teacher_role_desc">Host classroom sessions, perform voice translation, and broadcast content to students.</string>
+    <string name="student_role_title">🎓 I am a Student</string>
+    <string name="student_role_desc">Configure your grade and section to receive live classroom translations.</string>
+    <string name="prototype_phase_footer">Prototype Phase 1 — Role &amp; Section Foundation</string>
+
+    <!-- Network Status -->
+    <string name="status_online">Online</string>
+    <string name="status_offline">Offline</string>
+    <string name="status_syncing">Syncing...</string>
+    <string name="status_downloaded_content">• Downloaded content available</string>
+
+    <!-- Teacher PIN -->
+    <string name="teacher_pin_title">Teacher PIN Verification</string>
+    <string name="teacher_pin_subtitle">Enter 6-digit Teacher PIN to access classroom hosting</string>
+    <string name="teacher_pin_label">Teacher PIN</string>
+    <string name="teacher_pin_placeholder">Enter 6-digit Teacher PIN</string>
+    <string name="teacher_pin_error">Incorrect PIN. Please enter the correct 6-digit Teacher PIN.</string>
+    <string name="teacher_pin_verify_button">प्रवेश करें</string>
+    <string name="teacher_pin_back_button">Back to Role Selection</string>
+
+    <!-- Teacher Home -->
+    <string name="home_subtitle">AI-Powered Vernacular Learning</string>
+    <string name="home_language_pair">Hindi → Santali</string>
+    <string name="home_description">Offline-first classroom assistant for mother-tongue learning.</string>
+    <string name="home_start_lesson">Start Lesson</string>
+    <string name="home_language_packs">Language Packs (v0.1-demo)</string>
+
+    <!-- Grade Selection -->
+    <string name="grade_title">Select Grade</string>
+    <string name="grade_subtitle">Choose the target primary grade for this session</string>
+    <string name="grade_1_name">Grade 1</string>
+    <string name="grade_1_desc">Foundational Literacy &amp; Early Numeracy</string>
+    <string name="grade_2_name">Grade 2</string>
+    <string name="grade_2_desc">Primary Mathematics &amp; Reading (Default Demo)</string>
+    <string name="grade_3_name">Grade 3</string>
+    <string name="grade_3_desc">Basic Math &amp; Vernacular Vocabulary</string>
+    <string name="grade_continue">Continue</string>
+
+    <!-- Subject & Topic Selection -->
+    <string name="subject_selected_grade">Selected: %1$s</string>
+    <string name="subject_title">Select Subject &amp; Topic</string>
+    <string name="subject_math">Mathematics</string>
+    <string name="topic_counting">Counting</string>
+    <string name="topic_numbers">Numbers</string>
+    <string name="topic_addition">Addition</string>
+    <string name="subject_language">Language</string>
+    <string name="topic_letters">Letters</string>
+    <string name="topic_vocabulary">Vocabulary</string>
+    <string name="subject_target_section">Target Classroom Section</string>
+    <string name="subject_section_format">Section %1$s</string>
+    <string name="subject_start_classroom">Start Classroom</string>
+
+    <!-- Voice Translation -->
+    <string name="voice_speak_hindi">Speak in Hindi</string>
+    <string name="voice_tap_mic_hint">Tap microphone and speak Hindi</string>
+    <string name="voice_listening_format">Listening... (%1$.1fs)</string>
+    <string name="voice_processing">Processing...</string>
+    <string name="voice_processing_speech">Processing speech...</string>
+    <string name="voice_recognized_hindi">Recognized Hindi</string>
+    <string name="voice_translating">Translating text...</string>
+    <string name="voice_translating_backend">Translating via M1 /translate...</string>
+    <string name="voice_tap_stop_hint">Tap button to stop recording</string>
+    <string name="voice_desc_start_recording">Start recording</string>
+    <string name="voice_desc_stop_recording">Stop recording</string>
+    <string name="voice_hindi_text_header">Hindi Text</string>
+    <string name="voice_no_speech">कोई आवाज़ नहीं पहचानी गई</string>
+    <string name="voice_loading_vosk">Loading Vosk ASR Engine...</string>
+    <string name="voice_santali_header">Santali Translation (Ol Chiki)</string>
+    <string name="voice_santali_notice">अनुवाद उपलब्ध नहीं हो पाया। फिर से बोलें।</string>
+    <string name="voice_room_cache_notice">Served from Room cache (0 ms network)</string>
+    <string name="voice_backend_latency_format">Backend latency: %1$.2f ms (%2$.2f s)</string>
+    <string name="voice_view_details">View Translation Details</string>
+    <string name="voice_dialog_title">M1 Translation Details</string>
+    <string name="voice_ok">OK</string>
+    <string name="voice_dismiss">Dismiss</string>
+    <string name="voice_error_save_audio">आवाज़ रिकॉर्डिंग सहेजने में विफलता</string>
+    <string name="voice_error_recording">आवाज़ रिकॉर्ड नहीं हो सकी</string>
+    <string name="voice_error_asr">कोई आवाज़ नहीं पहचानी गई</string>
+    <string name="voice_play_original_audio">▶ Listen to your voice</string>
+    <string name="voice_original_audio_playing">⏸ Voice playing...</string>
+    <string name="voice_play_original_audio_again">▶ Listen again</string>
+
+    <!-- Translation Result -->
+    <string name="result_title">Translation Result</string>
+    <string name="result_source_hindi">SOURCE — HINDI</string>
+    <string name="result_target_santali">TARGET — SANTALI</string>
+    <string name="result_confidence">CONFIDENCE</string>
+    <string name="result_confidence_demo">Demo</string>
+    <string name="result_latency">LATENCY</string>
+    <string name="result_latency_not_measured">Not measured</string>
+    <string name="result_play_audio">🔊 Play Santali Audio</string>
+    <string name="result_desc_play_audio">Play Santali Audio button</string>
+    <string name="result_snackbar_audio">Audio integration will be connected in the AI integration phase.</string>
+    <string name="result_open_worksheet">Open FLN Worksheet</string>
+    <string name="result_back_to_classroom">Back to Classroom</string>
+
+    <!-- Worksheet & Flashcards -->
+    <string name="worksheet_practice_flashcards">Practice Flashcards</string>
+    <string name="worksheet_back_to_classroom">Back to Classroom</string>
+    <string name="flashcard_back_to_classroom">Back to Classroom</string>
+
+    <!-- Language Packs -->
+    <string name="pack_title">Language &amp; Content Packs</string>
+    <string name="pack_subtitle">Offline vernacular language packs &amp; M3 audio assets</string>
+    <string name="pack_audio_test_title">M3 Santali Grade-2 Audio Test</string>
+    <string name="pack_audio_unverified">Unverified audio asset</string>
+    <string name="pack_audio_asset_info">Test Asset: %1$s (22050Hz, mono, 16-bit PCM)</string>
+    <string name="pack_play_audio_format">▶️ Play M3 Santali Audio (%1$s)</string>
+    <string name="pack_stop_audio_format">🔊 Stop Audio (%1$s)</string>
+    <string name="pack_loading_wav">Loading WAV asset...</string>
+    <string name="pack_no_packs">No language packs detected.</string>
+    <string name="pack_meta_format">Script: %1$s | Version: %2$s</string>
+    <string name="pack_reinstall">Reinstall Santali Demo Pack (v0.1-demo)</string>
+    <string name="pack_reinstall_success">Santali Demo Pack (v0.1-demo) reinstalled successfully.</string>
+    <string name="pack_reinstall_failed">Failed to reset demo pack.</string>
+    <string name="pack_back_to_home">Back to Home</string>
+
+    <!-- Student Setup & View (Preserved English Baseline) -->
+    <string name="student_setup_title">Student Device Setup</string>
+    <string name="student_setup_subtitle">Configure Grade &amp; Section for receiving classroom translations.</string>
+    <string name="student_setup_select_grade">Select Grade</string>
+    <string name="student_setup_grade_2_chip">Grade 2 (MVP Active)</string>
+    <string name="student_setup_select_section">Select Section</string>
+    <string name="student_setup_save_button">Save &amp; Launch Student View</string>
+    <string name="student_setup_back_button">Back to Role Selection</string>
+    <string name="student_home_header">पलाश — छात्र</string>
+    <string name="student_home_assigned_header">Assigned Device Configuration</string>
+    <string name="student_home_assigned_format">Grade %1$d — Section %2$s</string>
+    <string name="student_home_ready">Ready for offline classroom receiving</string>
+    <string name="student_home_listening_title">📡 Listening for Teacher Broadcast</string>
+    <string name="student_home_listening_body">Classroom networking is disabled in Phase 1 foundation. When active in Phase 2, real-time translations for Grade %1$d Section %2$s will appear here.</string>
+    <string name="student_home_reconfigure">⚙️ Reconfigure Device Role / Section</string>
+
+    <!-- Navigation Controls -->
+    <string name="nav_previous">Previous</string>
+    <string name="nav_next">Next</string>
+</resources>

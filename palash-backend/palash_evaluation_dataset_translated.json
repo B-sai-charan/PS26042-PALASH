@@ -1,0 +1,1002 @@
+[
+  {
+    "id": 1,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसानों को सरकारी योजना का लाभ मिलेगा।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱯᱚᱨᱤᱢᱟᱱ ᱠᱷᱚᱱ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱵᱷᱟᱞᱮ ᱧᱟᱢᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 2,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसान सरकारी योजना के लिए आवेदन कर सकते हैं।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱥᱚᱨᱠᱟᱨ ᱟᱜ ᱯᱚᱨᱤᱢᱟᱱ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱡᱤ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 3,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकार किसानों को आर्थिक सहायता प्रदान करेगी।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱠᱟᱹᱣᱰᱤ ᱜᱚᱲᱚ ᱠᱚ ᱮᱢᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 4,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "यह योजना छोटे और सीमांत किसानों के लिए है।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱠᱚᱞ ᱫᱚ ᱦᱩᱰᱤᱧ ᱟᱨ ᱦᱩᱰᱤᱧ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 5,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसानों को बीज और खाद उपलब्ध कराई जाएगी।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱵᱤᱱ ᱟᱨ ᱥᱟᱨ ᱮᱢ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 6,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसानों को फसल के लिए उचित मूल्य मिलेगा।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱪᱟᱥ ᱞᱟᱹᱜᱤᱫ ᱱᱟᱯᱟᱭ ᱜᱚᱱᱚᱝ ᱠᱚ ᱧᱟᱢᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 7,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसान अपनी फसल का बीमा करा सकते हैं।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱩᱱᱠᱩᱭᱟᱜ ᱪᱟᱥ ᱨᱮᱭᱟᱜ ᱵᱤᱢᱟᱹ ᱮᱢ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 8,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकार किसानों को सिंचाई की सुविधा प्रदान करेगी।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱫᱟᱜ ᱨᱮᱭᱟᱜ ᱜᱚᱲᱚ ᱠᱚ ᱮᱢᱚᱜ ᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 9,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसानों को कृषि उपकरण खरीदने के लिए सहायता मिलेगी।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱪᱟᱥ ᱨᱮᱭᱟᱜ ᱩᱯᱟᱹᱭ ᱠᱤᱨᱤᱧ ᱞᱟᱹᱜᱤᱫ ᱜᱚᱲᱚ ᱮᱢ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 10,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "इस योजना से ग्रामीण किसानों को लाभ होगा।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱠᱚᱞ ᱫᱚ ᱟᱛᱳ ᱨᱮᱱ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱥᱤᱜᱤᱞᱮ ᱧᱟᱢᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 11,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकारी योजना के लिए आवेदन करना आवश्यक है।",
+    "translated_text": "ᱢᱤᱫᱴᱟᱝ ᱥᱚᱨᱠᱟᱨᱟᱜ ᱯᱚᱨᱤᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱡᱤ ᱠᱚᱨᱟᱣ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 12,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "इस योजना के लिए कोई शुल्क नहीं लिया जाएगा।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱠᱚᱞ ᱞᱟᱹᱜᱤᱫ ᱡᱟᱦᱟᱱ ᱠᱷᱚᱨᱪᱟ ᱵᱟᱝ ᱦᱟᱛᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 13,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "योजना का लाभ सीधे बैंक खाते में मिलेगा।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱠᱚᱞ ᱨᱮᱭᱟᱜ ᱥᱤᱜᱤᱞ ᱠᱚᱫᱚ ᱥᱚᱨᱟᱥᱚᱨᱤ ᱵᱮᱝᱠ ᱮᱠᱟᱣᱩᱱᱴ ᱨᱮ ᱧᱟᱢᱚᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 14,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "लाभार्थियों की सूची वेबसाइट पर उपलब्ध है।",
+    "translated_text": "ᱵᱮᱶᱦᱟᱨᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱛᱟᱹᱞᱤᱠᱟ ᱳᱭᱮᱵᱽᱥᱟᱭᱤᱴ ᱨᱮ ᱧᱟᱢᱚᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 15,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन की अंतिम तारीख 30 सितंबर है।",
+    "translated_text": "ᱟᱨᱡᱤ ᱨᱮᱭᱟᱜ ᱢᱩᱪᱟᱹᱫ ᱢᱟᱦᱟ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ 30 ᱥᱮᱯᱴᱮᱢᱵᱚᱨ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 16,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन करने के बाद पंजीकरण संख्या सुरक्षित रखें।",
+    "translated_text": "ᱟᱨᱡᱤ ᱮᱢ ᱛᱟᱭᱚᱢ ᱨᱮᱡᱤᱥᱴᱟᱨ ᱱᱟᱢᱵᱟᱨ ᱫᱚᱦᱚ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 17,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकार पात्र लोगों को वित्तीय सहायता देगी।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱡᱟᱦᱟᱸᱭ ᱠᱚ ᱫᱟᱲᱮᱹᱭᱟᱜᱼᱟ ᱩᱱᱠᱩ ᱫᱚ ᱠᱟᱹᱣᱰᱤ ᱜᱚᱲᱚ ᱠᱚ ᱮᱢᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 18,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "योजना का लाभ केवल पात्र नागरिकों को मिलेगा।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱠᱚᱞ ᱨᱮᱭᱟᱜ ᱥᱤᱜᱤᱞ ᱫᱚ ᱥᱩᱢᱩᱝ ᱥᱤᱜᱤᱞ ᱦᱚᱲ ᱠᱚ ᱧᱟᱢᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 19,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन की स्थिति ऑनलाइन देखी जा सकती है।",
+    "translated_text": "ᱟᱨᱡᱤ ᱨᱮᱭᱟᱜ ᱥᱴᱮᱴᱟᱥ ᱫᱚ ᱚᱱᱞᱟᱭᱤᱱ ᱨᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 20,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "अधिक जानकारी के लिए संबंधित कार्यालय से संपर्क करें।",
+    "translated_text": "ᱟᱨᱦᱚᱸ ᱛᱚᱛᱷᱚ ᱵᱟᱰᱟᱭ ᱞᱟᱹᱜᱤᱫ ᱮᱥᱮᱨᱟᱱ ᱚᱯᱷᱤᱥ ᱥᱟᱞᱟᱜ ᱡᱳᱜᱟᱡᱳᱜ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 21,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "लाभ प्राप्त करने के लिए आवश्यक दस्तावेज जमा करने होंगे।",
+    "translated_text": "ᱵᱷᱟᱞᱮ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱹᱠᱛᱤ ᱟᱱᱟᱜ ᱱᱚᱛᱷᱤ ᱠᱚ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 22,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन के साथ आधार कार्ड की प्रति जमा करें।",
+    "translated_text": "ᱟᱨᱡᱤ ᱥᱟᱶᱛᱮ ᱟᱭᱫᱷᱟᱨ ᱠᱟᱨᱰ ᱨᱮᱭᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱠᱚᱯᱤ ᱮᱢ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 23,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "बैंक खाते की जानकारी देना आवश्यक है।",
+    "translated_text": "ᱵᱮᱝᱠ ᱮᱠᱟᱣᱱᱴ ᱨᱮᱭᱟᱜ ᱰᱚᱜᱚᱨ ᱮᱢᱚᱜ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 24,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदक को पहचान प्रमाण प्रस्तुत करना होगा।",
+    "translated_text": "ᱟᱨᱡᱤᱵᱤᱭᱟᱹ ᱫᱚ ᱪᱤᱱᱦᱟᱹᱣᱟᱱ ᱥᱟᱹᱵᱩᱫᱽ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 25,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "निवास प्रमाण पत्र आवश्यक है।",
+    "translated_text": "ᱛᱟᱦᱮᱸᱱ ᱨᱮᱭᱟᱜ ᱥᱟᱨᱴᱤᱯᱷᱤᱠᱮᱴ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 26,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसान को भूमि से संबंधित दस्तावेज जमा करने होंगे।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱫᱚ ᱚᱛᱢᱚᱱ ᱥᱟᱞᱟᱜ ᱡᱳᱜᱟᱡᱳᱜ ᱨᱮᱭᱟᱜ ᱱᱩᱛᱚᱱᱟ ᱠᱚ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 27,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सभी दस्तावेज सही और स्पष्ट होने चाहिए।",
+    "translated_text": "ᱥᱟᱱᱟᱢ ᱱᱚᱛᱷᱤ ᱜᱮ ᱥᱚᱨᱟᱥᱚᱨᱤ ᱟᱨ ᱥᱚᱨᱟᱥᱚᱨᱤ ᱦᱳᱭᱳᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 28,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "अधूरे दस्तावेज वाले आवेदन स्वीकार नहीं किए जाएंगे।",
+    "translated_text": "ᱵᱮᱼᱵᱩᱴᱟᱹ ᱱᱩᱛᱚᱱᱟᱢᱮᱱᱴ ᱥᱟᱶ ᱟᱨᱡᱤ ᱵᱟᱛᱟᱣᱟᱜ ᱵᱟᱝ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 29,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "दस्तावेजों की जांच के बाद आवेदन स्वीकृत होगा।",
+    "translated_text": "ᱱᱚᱛᱷᱤ ᱠᱚ ᱵᱤᱰᱟᱹᱣ ᱛᱟᱭᱚᱢ ᱟᱨᱡᱤ ᱵᱟᱛᱟᱣᱟᱜ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 30,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन पत्र के साथ पासपोर्ट आकार की फोटो लगाएं।",
+    "translated_text": "ᱟᱨᱡᱤ ᱥᱟᱠᱟᱢ ᱥᱟᱶᱛᱮ ᱢᱤᱫᱴᱟᱝ ᱯᱟᱥᱯᱳᱨᱴ ᱞᱮᱠᱟᱱ ᱪᱤᱛᱟᱹᱨ ᱫᱚᱦᱚ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 31,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसान अपने नजदीकी कार्यालय में आवेदन कर सकते हैं।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱩᱱᱠᱩᱭᱟᱜ ᱥᱳᱨᱥᱳᱯᱳᱨ ᱚᱯᱷᱤᱥ ᱨᱮ ᱟᱨᱡᱤ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 32,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "ऑनलाइन आवेदन करने के लिए वेबसाइट खोलें।",
+    "translated_text": "ᱚᱱᱞᱟᱭᱤᱱᱛᱮ ᱟᱨᱡᱤ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱳᱭᱮᱵᱽᱥᱟᱭᱤᱴ ᱫᱚ ᱠᱷᱩᱞᱟᱹᱣ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 33,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन पत्र ध्यान से भरें।",
+    "translated_text": "ᱟᱨᱡᱤ ᱯᱚᱨᱤᱢᱟᱱ ᱫᱚ ᱱᱟᱯᱟᱭ ᱛᱮ ᱯᱮᱨᱮᱪ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 34,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "गलत जानकारी देने पर आवेदन रद्द किया जा सकता है।",
+    "translated_text": "ᱵᱮᱼᱵᱩᱴᱟᱹ ᱰᱚᱜᱚᱨ ᱮᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱡᱤ ᱵᱟᱛᱟᱣᱟᱜ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 35,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन जमा करने के बाद रसीद प्राप्त करें।",
+    "translated_text": "ᱟᱨᱡᱤ ᱮᱢ ᱛᱟᱭᱚᱢ ᱢᱤᱫᱴᱟᱝ ᱨᱚᱥᱤᱫ ᱧᱟᱢ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 36,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसान मोबाइल फोन से आवेदन कर सकते हैं।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱢᱳᱵᱟᱭᱤᱞ ᱯᱷᱳᱱ ᱛᱟᱞᱟᱛᱮ ᱟᱨᱡᱤ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 37,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन पूरा होने के बाद एक पुष्टि संदेश मिलेगा।",
+    "translated_text": "ᱟᱨᱡᱤ ᱢᱩᱪᱟᱹᱫ ᱛᱟᱭᱚᱢ ᱢᱤᱫᱴᱟᱝ ᱥᱟᱹᱵᱩᱫ ᱨᱮᱭᱟᱜ ᱰᱚᱜᱚᱨ ᱧᱟᱢᱚᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 38,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन में अपना मोबाइल नंबर दर्ज करें।",
+    "translated_text": "ᱟᱨᱡᱤ ᱨᱮ ᱟᱢᱟᱜ ᱢᱳᱵᱟᱭᱤᱞ ᱱᱟᱢᱵᱟᱨ ᱚᱞ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 39,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन की जानकारी बाद में बदली नहीं जा सकती।",
+    "translated_text": "ᱟᱨᱡᱤ ᱨᱮᱭᱟᱜ ᱰᱚᱜᱚᱨ ᱛᱟᱭᱚᱢᱛᱮ ᱵᱚᱱᱚᱫᱚᱞ ᱵᱟᱝ ᱦᱩᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 40,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसी समस्या की स्थिति में हेल्पलाइन पर संपर्क करें।",
+    "translated_text": "ᱡᱟᱦᱟᱱ ᱟᱱᱟᱴ ᱦᱩᱭ ᱞᱮᱱ ᱠᱷᱟᱱ ᱦᱮᱞᱯᱞᱟᱭᱮᱱ ᱥᱟᱞᱟᱜ ᱡᱳᱜᱟᱡᱳᱜ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 41,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन करने के 30 दिनों के भीतर लाभ मिल सकता है।",
+    "translated_text": "ᱟᱨᱡᱤ ᱮᱢ ᱨᱮᱭᱟᱜ 30 ᱢᱟᱦᱟ ᱢᱩᱫ ᱨᱮ ᱵᱷᱟᱞᱮ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 42,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "यह योजना 1 जनवरी से लागू होगी।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱠᱚᱞ ᱫᱚ 1 ᱡᱟᱱᱣᱟᱨᱤ ᱠᱷᱚᱱ ᱮᱦᱚᱵᱚᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 43,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन की अंतिम तारीख 15 अगस्त है।",
+    "translated_text": "ᱟᱨᱡᱤ ᱨᱮᱭᱟᱜ ᱢᱩᱪᱟᱹᱫ ᱢᱟᱦᱟ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ 15 ᱟᱜᱚᱥᱴ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 44,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "लाभार्थी को 5000 रुपये की सहायता मिलेगी।",
+    "translated_text": "ᱵᱮᱶᱦᱟᱨᱟᱱ ᱦᱚᱲ ᱫᱚ 5000 ᱴᱟᱠᱟ ᱜᱚᱲᱚ ᱠᱚ ᱧᱟᱢᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 45,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकार हर महीने आर्थिक सहायता देगी।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱡᱚᱛᱚ ᱪᱟᱸᱫᱚ ᱜᱮ ᱠᱟᱹᱣᱰᱤ ᱜᱚᱲᱚ ᱠᱚ ᱮᱢᱚᱜ ᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 46,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन की जांच 7 दिनों में पूरी होगी।",
+    "translated_text": "ᱟᱨᱡᱤ ᱨᱮᱭᱟᱜ ᱵᱤᱰᱟᱹᱣ 7 ᱢᱟᱦᱟ ᱢᱩᱫᱨᱮ ᱢᱩᱪᱟᱹᱫᱚᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 47,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसानों को 10 किलो बीज उपलब्ध कराया जाएगा।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ 10 ᱠᱤᱞᱳᱢᱤᱴᱟᱨ ᱵᱤᱱ ᱮᱢ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 48,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "योजना के तहत 50 प्रतिशत सहायता दी जाएगी।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱠᱚᱞ ᱨᱮᱭᱟᱜ ᱟᱶᱛᱟ ᱨᱮ 50 ᱥᱟᱭᱦᱤᱸᱥ ᱜᱚᱲᱚ ᱮᱢ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 49,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "लाभ की राशि तीन महीने के भीतर प्राप्त होगी।",
+    "translated_text": "ᱯᱮ ᱪᱟᱸᱫᱳ ᱢᱩᱫᱨᱮ ᱵᱮᱶᱦᱟᱨ ᱨᱮᱭᱟᱜ ᱯᱚᱨᱤᱢᱟᱱ ᱧᱟᱢᱚᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 50,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "पंजीकरण सुबह 10 बजे से शुरू होगा।",
+    "translated_text": "ᱨᱮᱡᱤᱥᱴᱟᱨ صبح 10 ᱴᱟᱲᱟᱝ ᱠᱷᱚᱱ ᱮᱦᱚᱵᱚᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 51,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकारी अस्पताल में इलाज मुफ्त किया जाएगा।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨᱟᱜ ᱛᱟᱞᱢᱟ ᱨᱮ ᱵᱮᱼᱵᱟᱹᱛᱤᱞ ᱛᱮ ᱥᱟᱨᱵᱷᱟᱨ ᱠᱚᱨᱟᱣ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 52,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "मरीज को अपना पहचान पत्र साथ लाना होगा।",
+    "translated_text": "ᱨᱳᱜᱤ ᱫᱚ ᱟᱡᱟᱜ ᱟᱭᱰᱤ ᱠᱚ ᱤᱫᱤ ᱠᱟᱛᱮ ᱦᱮᱡ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 53,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "गर्भवती महिलाओं को विशेष स्वास्थ्य सुविधा मिलेगी।",
+    "translated_text": "ᱜᱚᱭᱱᱟᱥᱤ ᱛᱤᱨᱞᱟᱹ ᱠᱚ ᱟᱹᱰᱤ ᱱᱟᱯᱟᱭ ᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 54,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "बच्चों का टीकाकरण समय पर कराएं।",
+    "translated_text": "ᱚᱠᱛᱚ ᱞᱮᱠᱟᱛᱮ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱴᱩᱭᱤᱠᱮᱥᱚᱱ ᱮᱢ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 55,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "स्वास्थ्य केंद्र में डॉक्टर उपलब्ध हैं।",
+    "translated_text": "ᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 56,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "जरूरत पड़ने पर मरीज को अस्पताल भेजा जाएगा।",
+    "translated_text": "ᱞᱟᱹᱠᱛᱤ ᱦᱩᱭ ᱞᱮᱱ ᱠᱷᱟᱱ ᱨᱳᱜᱤ ᱫᱚ ᱛᱟᱞᱢᱟ ᱨᱮ ᱥᱮᱱ ᱦᱳᱭᱳᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 57,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकार ग्रामीण क्षेत्रों में स्वास्थ्य सेवाएं बढ़ाएगी।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱟᱛᱳ ᱴᱚᱴᱷᱟ ᱨᱮ ᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 58,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "दवा लेने से पहले डॉक्टर की सलाह लें।",
+    "translated_text": "ᱵᱮᱶᱦᱟᱨ ᱦᱟᱛᱟᱣ ᱞᱟᱦᱟᱨᱮ طبیب ᱴᱷᱮᱱ ᱠᱷᱚᱱ ᱯᱚᱨᱟᱢᱚᱥ ᱦᱟᱛᱟᱣ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 59,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "स्वास्थ्य जांच के लिए नजदीकी केंद्र पर जाएं।",
+    "translated_text": "ᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟᱼᱥᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 60,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आपातकालीन स्थिति में तुरंत अस्पताल जाएं।",
+    "translated_text": "ᱡᱳᱨᱥᱩᱢᱟᱹᱱ ᱨᱮ ᱩᱱᱚᱠᱛᱚ ᱛᱟᱞᱢᱟ ᱨᱮ ᱥᱮᱱ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 61,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "छात्रों को छात्रवृत्ति के लिए आवेदन करना होगा।",
+    "translated_text": "ᱥᱮᱪᱮᱫᱤᱭᱟᱹ ᱠᱚ ᱮᱥᱠᱳᱞᱟᱨᱥᱤᱯ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱡᱤ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 62,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "गरीब परिवारों के बच्चों को शिक्षा सहायता मिलेगी।",
+    "translated_text": "ᱫᱚᱠᱟᱹᱨᱤ ᱚᱲᱟᱜ ᱨᱮᱱ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱥᱮᱪᱮᱫ ᱨᱮᱭᱟᱜ ᱜᱚᱲᱚ ᱠᱚ ᱧᱟᱢᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 63,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "विद्यालय में प्रवेश के लिए दस्तावेज आवश्यक हैं।",
+    "translated_text": "ᱵᱤᱨᱫᱟᱹᱜᱟᱲ ᱨᱮ ᱥᱮᱞᱮᱫᱚᱜ ᱞᱟᱹᱜᱤᱫ ᱱᱩᱛᱚᱱᱟᱢᱮᱱᱴ ᱨᱮᱭᱟᱜ ᱞᱟᱹᱠᱛᱤ ᱢᱮᱱᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 64,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "छात्र ऑनलाइन छात्रवृत्ति आवेदन कर सकते हैं।",
+    "translated_text": "ᱥᱮᱪᱮᱫᱤᱭᱟᱹ ᱠᱚ ᱚᱱᱞᱟᱭᱤᱱ ᱨᱮ ᱮᱥᱠᱚᱞᱟᱨᱥᱤᱯ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱡᱤ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 65,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकार छात्रों को किताबें उपलब्ध कराएगी।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱥᱮᱪᱮᱫᱤᱭᱟᱹ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱯᱚᱛᱚᱵ ᱠᱚ ᱮᱢᱚᱜ ᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 66,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "विद्यालय में मुफ्त भोजन दिया जाएगा।",
+    "translated_text": "ᱵᱤᱨᱫᱟᱹᱜᱟᱲ ᱨᱮ ᱵᱤᱱ ᱜᱚᱱᱚᱝ ᱛᱮ ᱡᱚᱢᱟᱜ ᱮᱢᱚᱜ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 67,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "छात्रों को परीक्षा की तैयारी समय पर करनी चाहिए।",
+    "translated_text": "ᱥᱮᱪᱮᱫᱤᱭᱟᱹ ᱠᱚ ᱚᱠᱛᱚ ᱞᱮᱠᱟᱛᱮ ᱵᱤᱰᱟᱹᱣ ᱞᱟᱹᱜᱤᱫ ᱮ ᱥᱟᱯᱲᱟᱣ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 68,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "शिक्षकों को प्रशिक्षण दिया जाएगा।",
+    "translated_text": "ᱥᱮᱪᱮᱫᱤᱭᱟᱹ ᱠᱚ ᱥᱮᱪᱮᱫ ᱮᱢ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 69,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "ग्रामीण बच्चों के लिए नई कक्षाएं शुरू की जाएंगी।",
+    "translated_text": "ᱟᱛᱳ ᱨᱮᱱ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱱᱟᱶᱟ ᱥᱮᱪᱮᱫ ᱦᱚᱨᱟ ᱮᱛᱚᱦᱚᱵ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 70,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "शिक्षा योजना का उद्देश्य बच्चों को बेहतर अवसर देना है।",
+    "translated_text": "ᱥᱮᱪᱮᱫ ᱯᱚᱨᱤᱠᱚᱞ ᱨᱮᱭᱟᱜ ᱡᱚᱥ ᱫᱚ ᱦᱩᱭᱩᱜ ᱠᱟᱱᱟ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱟᱨᱦᱚᱸ ᱱᱟᱯᱟᱭ ᱩᱯᱟᱹᱭ ᱮᱢᱚᱜ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 71,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "लाभार्थी के बैंक खाते में राशि भेजी जाएगी।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱢᱟᱱ ᱫᱚ ᱵᱮᱶᱦᱟᱨᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱵᱮᱝᱠ ᱮᱠᱟᱣᱩᱱᱴ ᱨᱮ ᱵᱷᱮᱡᱟ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 72,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "बैंक खाता आधार कार्ड से जुड़ा होना चाहिए।",
+    "translated_text": "ᱵᱮᱝᱠ ᱮᱠᱟᱣᱱᱴ ᱫᱚ ᱟᱭᱫᱷᱟᱨ ᱠᱟᱨᱰ ᱥᱟᱞᱟᱜ ᱥᱮᱞᱮᱫ ᱦᱳᱭᱳᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 73,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "बैंक में मोबाइल नंबर दर्ज होना आवश्यक है।",
+    "translated_text": "ᱵᱮᱝᱠ ᱨᱮ ᱢᱳᱵᱟᱭᱤᱞ ᱱᱟᱢᱵᱟᱨ ᱚᱞ ᱫᱚᱦᱚ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 74,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसान बैंक शाखा में जाकर जानकारी प्राप्त कर सकते हैं।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱵᱮᱝᱠ ᱛᱷᱚᱱᱚᱛ ᱨᱮ ᱥᱮᱱ ᱠᱟᱛᱮ ᱰᱚᱜᱚᱨ ᱠᱚ ᱧᱟᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 75,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "भुगतान की स्थिति ऑनलाइन देखी जा सकती है।",
+    "translated_text": "ᱯᱮᱢᱮᱱᱴ ᱨᱮᱭᱟᱜ ᱥᱴᱮᱴᱟᱥ ᱚᱱᱞᱟᱭᱤᱱ ᱨᱮ ᱧᱮᱞ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 76,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकार सीधे लाभार्थी के खाते में पैसा भेजेगी।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱵᱮᱶᱦᱟᱨᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱮᱠᱟᱣᱩᱱᱴ ᱨᱮ ᱥᱚᱨᱟᱥᱚᱨᱤ ᱠᱟᱹᱣᱰᱤ ᱠᱚ ᱵᱷᱮᱡᱟᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 77,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "बैंक खाते की जानकारी गलत नहीं होनी चाहिए।",
+    "translated_text": "ᱵᱮᱝᱠ ᱮᱠᱟᱣᱱᱴ ᱨᱮᱭᱟᱜ ᱰᱚᱜᱚᱨ ᱫᱚ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ ᱵᱟᱝ",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 78,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "भुगतान में देरी होने पर कार्यालय से संपर्क करें।",
+    "translated_text": "ᱯᱮᱢᱮᱱᱴ ᱵᱤᱞᱚᱢ ᱦᱩᱭ ᱞᱮᱱ ᱠᱷᱟᱱ ᱚᱯᱷᱤᱥ ᱥᱟᱞᱟᱜ ᱡᱳᱜᱟᱡᱳᱜ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 79,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "लाभ प्राप्त करने के लिए सक्रिय बैंक खाता आवश्यक है।",
+    "translated_text": "ᱵᱷᱟᱞᱮ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱢᱤᱫᱴᱟᱝ ᱮᱥᱮᱨᱟᱱ ᱵᱮᱝᱠ ᱮᱠᱟᱣᱩᱱᱴ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 80,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "बैंक से संबंधित समस्या के लिए ग्राहक सेवा से संपर्क करें।",
+    "translated_text": "ᱵᱮᱝᱠ ᱥᱟᱞᱟᱜ ᱡᱳᱜᱟᱡᱳᱜ ᱞᱟᱹᱜᱤᱫ ᱠᱤᱨᱤᱧᱤᱭᱟᱹ ᱯᱚᱨᱤᱥᱮᱵᱟ ᱥᱟᱞᱟᱜ ᱡᱳᱜᱟᱡᱳᱜ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 81,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "ग्रामीण क्षेत्रों के लोगों को यह सेवा उपलब्ध होगी।",
+    "translated_text": "ᱟᱛᱳ ᱴᱚᱴᱷᱟ ᱨᱮᱱ ᱦᱚᱲᱠᱚ ᱱᱚᱶᱟ ᱯᱚᱨᱤᱥᱮᱵᱟ ᱠᱚ ᱧᱟᱢ ᱫᱟᱲᱮᱹᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 82,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "नजदीकी पंचायत कार्यालय में जानकारी प्राप्त करें।",
+    "translated_text": "ᱥᱳᱨᱥᱳᱯᱳᱨ ᱯᱟᱱᱪᱟᱭᱴ ᱚᱯᱷᱤᱥ ᱨᱮ ᱰᱚᱜᱚᱨ ᱧᱟᱢ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 83,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "गांव में नया सेवा केंद्र खोला गया है।",
+    "translated_text": "ᱟᱛᱳ ᱨᱮ ᱢᱤᱫᱴᱟᱝ ᱱᱟᱶᱟ ᱯᱚᱨᱤᱥᱮᱵᱟ ᱛᱟᱞᱢᱟ ᱮᱦᱚᱵ ᱟᱠᱟᱱᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 84,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "नागरिक अपने आवेदन की स्थिति पूछ सकते हैं।",
+    "translated_text": "ᱥᱟᱦᱟᱨ ᱨᱮᱱ ᱦᱚᱲᱠᱚ ᱩᱱᱠᱩᱭᱟᱜ ᱟᱨᱡᱤ ᱨᱮᱭᱟᱜ ᱯᱚᱱᱚᱛ ᱵᱟᱰᱟᱭ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 85,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकार ग्रामीण क्षेत्रों में इंटरनेट सुविधा बढ़ाएगी।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱟᱛᱳ ᱴᱚᱴᱷᱟ ᱨᱮ ᱤᱱᱴᱟᱨᱱᱮᱴ ᱨᱮᱭᱟᱜ ᱮᱥᱮᱨ ᱠᱚ ᱵᱟᱹᱲᱛᱤᱭᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 86,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "पंचायत कार्यालय में आवेदन जमा किया जा सकता है।",
+    "translated_text": "ᱯᱟᱱᱪᱟᱭᱴ ᱚᱯᱷᱤᱥ ᱨᱮ ᱟᱨᱡᱤ ᱮᱢ ᱠᱚᱨᱟᱣ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 87,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सेवा का लाभ लेने के लिए पंजीकरण आवश्यक है।",
+    "translated_text": "ᱯᱚᱨᱤᱥᱮᱵᱟ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱨᱮᱡᱤᱥᱴᱟᱨ ᱦᱩᱭᱩᱜ ᱞᱟᱹᱠᱛᱤ ᱠᱟᱱᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 88,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "लाभार्थी को सही मोबाइल नंबर देना होगा।",
+    "translated_text": "ᱵᱮᱶᱦᱟᱨᱟᱱ ᱦᱚᱲ ᱫᱚ ᱜᱚᱴᱟ ᱢᱳᱵᱟᱭᱤᱞ ᱱᱟᱢᱵᱟᱨ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 89,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसी भी सहायता के लिए हेल्पलाइन नंबर पर फोन करें।",
+    "translated_text": "ᱡᱟᱦᱟᱸ ᱞᱮᱠᱟᱱ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ ᱦᱮᱞᱯᱞᱟᱭᱤᱱ ᱱᱟᱢᱵᱟᱨ ᱨᱮ ᱯᱷᱳᱱ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 90,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकारी सेवाओं की जानकारी ऑनलाइन उपलब्ध है।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨᱟᱜ ᱯᱚᱨᱤᱥᱮᱵᱟ ᱨᱮᱭᱟᱜ ᱛᱚᱛᱷᱚ ᱚᱱᱞᱟᱭᱤᱱ ᱨᱮ ᱧᱟᱢᱚᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 91,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "लाभ लेने के लिए किसानों को जरूरी कागजात जमा करने होंगे।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱵᱷᱟᱞᱮ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱞᱟᱹᱠᱛᱤ ᱟᱱᱟᱜ ᱱᱚᱛᱷᱤ ᱠᱚ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 92,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसानों को लाभ पाने के लिए सभी आवश्यक दस्तावेज जमा करने होंगे।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱥᱤᱜᱤᱞ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱥᱟᱱᱟᱢ ᱞᱟᱹᱠᱛᱤ ᱱᱩᱛᱚᱱᱟᱢᱮᱱᱴ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 93,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसानों को योजना का लाभ लेने के लिए जरूरी दस्तावेज प्रस्तुत करने होंगे।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱢᱟᱱ ᱨᱮᱭᱟᱜ ᱥᱤᱜᱤᱞ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱞᱟᱹᱠᱛᱤ ᱟᱱᱟᱜ ᱱᱩᱛᱚᱱᱟᱢᱮᱱᱴ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 94,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "जरूरी दस्तावेज जमा करने के बाद ही आवेदन पूरा होगा।",
+    "translated_text": "ᱞᱟᱹᱠᱛᱤ ᱟᱱᱟᱜ ᱱᱚᱛᱷᱤ ᱠᱚ ᱥᱟᱨᱵᱷᱟᱨ ᱛᱟᱭᱚᱢ ᱜᱮ ᱟᱨᱡᱤ ᱢᱩᱪᱟᱹᱫᱚᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 95,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसान सरकारी सहायता पाने के लिए आवेदन कर सकते हैं।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱥᱚᱨᱠᱟᱨ ᱟᱜ ᱜᱚᱲᱚ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱡᱤ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 96,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सरकारी सहायता के लिए किसानों को आवेदन करना होगा।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱟᱜ ᱜᱚᱲᱚ ᱞᱟᱹᱜᱤᱫ, ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱟᱨᱡᱤ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 97,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "किसानों को सरकारी मदद प्राप्त करने के लिए पंजीकरण करना होगा।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱴᱷᱮᱱ ᱠᱷᱚᱱ ᱜᱚᱲᱚ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚᱣᱟᱜ ᱨᱮᱡᱤᱥᱴᱟᱨ ᱦᱳᱭᱳᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 98,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "योजना का लाभ पाने के लिए पात्र किसान आवेदन करें।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱢᱟᱱ ᱨᱮᱭᱟᱜ ᱪᱷᱟᱹᱲ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱫᱟᱲᱮᱹᱣᱟᱱᱟᱜ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱟᱨᱡᱤ ᱮᱢ ᱢᱮ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 99,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "आवेदन करने वाले किसानों को दस्तावेज तैयार रखने चाहिए।",
+    "translated_text": "ᱟᱨᱡᱤ ᱮᱢᱚᱜ ᱠᱟᱱ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱱᱩᱛᱚᱱᱟᱢᱮᱱᱴ ᱠᱚ ᱵᱮᱱᱟᱣ ᱫᱚᱦᱚ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  },
+  {
+    "id": 100,
+    "source_language": "hin_Deva",
+    "target_language": "sat_Olck",
+    "source_text": "सभी पात्र किसानों को योजना की जानकारी दी जाएगी.",
+    "translated_text": "ᱥᱟᱱᱟᱢ ᱦᱟᱢᱮᱴᱟᱱ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱱᱚᱶᱟ ᱯᱚᱨᱤᱠᱚᱞ ᱤᱫᱤ ᱠᱟᱛᱮ ᱵᱟᱰᱟᱭ ᱮᱢᱚᱜ ᱦᱩᱭᱩᱜᱼᱟ ᱾",
+    "quality_score": null,
+    "meaning_preserved": null,
+    "notes": ""
+  }
+]

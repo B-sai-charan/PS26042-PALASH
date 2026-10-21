@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">पलाश</string>
+
+    <!-- Role Selection -->
+    <string name="welcome_title">पलाश में आपका स्वागत है</string>
+    <string name="role_selection_subtitle">ऑफ़लाइन कक्षा संचालन के लिए उपकरण भूमिका चुनें</string>
+    <string name="teacher_role_title">👨‍🏫 मैं शिक्षक हूँ</string>
+    <string name="teacher_role_desc">कक्षा सत्र संचालित करें, आवाज़ अनुवाद करें और छात्रों को सामग्री प्रसारित करें।</string>
+    <string name="student_role_title">🎓 मैं छात्र हूँ</string>
+    <string name="student_role_desc">लाइव कक्षा अनुवाद प्राप्त करने के लिए अपनी कक्षा और अनुभाग का चयन करें।</string>
+    <string name="prototype_phase_footer">प्रोटोटाइप चरण 1 — भूमिका एवं अनुभाग आधार</string>
+
+    <!-- Network Status -->
+    <string name="status_online">ऑनलाइन</string>
+    <string name="status_offline">ऑफ़लाइन</string>
+    <string name="status_syncing">सिंक हो रहा है...</string>
+    <string name="status_downloaded_content">• डाउनलोड की गई सामग्री उपलब्ध है</string>
+
+    <!-- Teacher PIN -->
+    <string name="teacher_pin_title">शिक्षक पिन सत्यापन</string>
+    <string name="teacher_pin_subtitle">कक्षा संचालन शुरू करने के लिए 6-अंकों का शिक्षक पिन दर्ज करें</string>
+    <string name="teacher_pin_label">शिक्षक पिन</string>
+    <string name="teacher_pin_placeholder">6-अंकों का शिक्षक पिन दर्ज करें</string>
+    <string name="teacher_pin_error">गलत पिन। कृपया सही 6-अंकों का शिक्षक पिन दर्ज करें।</string>
+    <string name="teacher_pin_verify_button">प्रवेश करें</string>
+    <string name="teacher_pin_back_button">भूमिका चयन पर वापस जाएं</string>
+
+    <!-- Teacher Home -->
+    <string name="home_subtitle">एआई-संचालित मातृभाषा शिक्षण</string>
+    <string name="home_language_pair">हिंदी → संथाली</string>
+    <string name="home_description">मातृभाषा शिक्षा के लिए ऑफ़लाइन-प्रथम कक्षा सहायक।</string>
+    <string name="home_start_lesson">पाठ शुरू करें</string>
+    <string name="home_language_packs">भाषा सामग्री पैक (v0.1-डेमो)</string>
+
+    <!-- Grade Selection -->
+    <string name="grade_title">कक्षा चुनें</string>
+    <string name="grade_subtitle">इस सत्र के लिए प्राथमिक कक्षा का चयन करें</string>
+    <string name="grade_1_name">कक्षा 1</string>
+    <string name="grade_1_desc">बुनियादी साक्षरता और प्रारंभिक संख्या ज्ञान</string>
+    <string name="grade_2_name">कक्षा 2</string>
+    <string name="grade_2_desc">प्राथमिक गणित और पठन (डिफ़ॉल्ट डेमो)</string>
+    <string name="grade_3_name">कक्षा 3</string>
+    <string name="grade_3_desc">बुनियादी गणित और मातृभाषा शब्दावली</string>
+    <string name="grade_continue">जारी रखें</string>
+
+    <!-- Subject & Topic Selection -->
+    <string name="subject_selected_grade">चयनित: %1$s</string>
+    <string name="subject_title">विषय और प्रकरण चुनें</string>
+    <string name="subject_math">गणित</string>
+    <string name="topic_counting">गिनती</string>
+    <string name="topic_numbers">संख्याएं</string>
+    <string name="topic_addition">जोड़</string>
+    <string name="subject_language">भाषा</string>
+    <string name="topic_letters">अक्षर</string>
+    <string name="topic_vocabulary">शब्दावली</string>
+    <string name="subject_target_section">लक्ष्य कक्षा अनुभाग</string>
+    <string name="subject_section_format">अनुभाग %1$s</string>
+    <string name="subject_start_classroom">कक्षा सत्र शुरू करें</string>
+
+    <!-- Voice Translation -->
+    <string name="voice_speak_hindi">हिंदी में बोलें</string>
+    <string name="voice_tap_mic_hint">माइक दबाएं और हिंदी में बोलें</string>
+    <string name="voice_listening_format">सुन रहे हैं... (%1$.1fs)</string>
+    <string name="voice_processing">प्रक्रिया जारी...</string>
+    <string name="voice_processing_speech">आवाज़ संसाधित की जा रही है...</string>
+    <string name="voice_recognized_hindi">पहचाना गया हिंदी वाक्य</string>
+    <string name="voice_translating">संथाली में अनुवाद किया जा रहा है...</string>
+    <string name="voice_translating_backend">M1 /translate के माध्यम से अनुवाद किया जा रहा है...</string>
+    <string name="voice_tap_stop_hint">रिकॉर्डिंग रोकने के लिए बटन दबाएं</string>
+    <string name="voice_desc_start_recording">रिकॉर्डिंग शुरू करें</string>
+    <string name="voice_desc_stop_recording">रिकॉर्डिंग रोकें</string>
+    <string name="voice_hindi_text_header">हिंदी पाठ</string>
+    <string name="voice_no_speech">कोई आवाज़ नहीं पहचानी गई</string>
+    <string name="voice_loading_vosk">Vosk हिंदी ASR इंजन लोड हो रहा है...</string>
+    <string name="voice_santali_header">संथाली अनुवाद (ऑल चिकी)</string>
+    <string name="voice_santali_notice">अनुवाद उपलब्ध नहीं हो पाया। फिर से बोलें।</string>
+    <string name="voice_room_cache_notice">Room कैश से प्राप्त (0 ms नेटवर्क)</string>
+    <string name="voice_backend_latency_format">बैकएंड विलंबता: %1$.2f ms (%2$.2f s)</string>
+    <string name="voice_view_details">अनुवाद विवरण देखें</string>
+    <string name="voice_dialog_title">M1 अनुवाद विवरण</string>
+    <string name="voice_ok">ठीक है</string>
+    <string name="voice_dismiss">बंद करें</string>
+    <string name="voice_error_save_audio">ऑडियो रिकॉर्डिंग सहेजने में विफलता</string>
+    <string name="voice_error_recording">रिकॉर्डिंग त्रुटि</string>
+    <string name="voice_error_asr">ASR त्रुटि</string>
+    <string name="voice_play_original_audio">▶ अपनी आवाज़ सुनें</string>
+    <string name="voice_original_audio_playing">⏸ आवाज़ चल रही है</string>
+    <string name="voice_play_original_audio_again">▶ फिर से सुनें</string>
+
+    <!-- Translation Result -->
+    <string name="result_title">अनुवाद परिणाम</string>
+    <string name="result_source_hindi">स्रोत — हिंदी</string>
+    <string name="result_target_santali">लक्ष्य — संथाली</string>
+    <string name="result_confidence">विश्वसनीयता</string>
+    <string name="result_confidence_demo">डेमो</string>
+    <string name="result_latency">विलंबता</string>
+    <string name="result_latency_not_measured">मापा नहीं गया</string>
+    <string name="result_play_audio">🔊 संथाली ऑडियो चलाएं</string>
+    <string name="result_desc_play_audio">संथाली ऑडियो प्ले बटन</string>
+    <string name="result_snackbar_audio">ऑडियो एकीकरण एआई चरण में जोड़ा जाएगा।</string>
+    <string name="result_open_worksheet">एफएलएन कार्यपत्रिका खोलें</string>
+    <string name="result_back_to_classroom">कक्षा सत्र में वापस जाएं</string>
+
+    <!-- Worksheet & Flashcards -->
+    <string name="worksheet_practice_flashcards">फ़्लैशकार्ड का अभ्यास करें</string>
+    <string name="worksheet_back_to_classroom">कक्षा सत्र में वापस जाएं</string>
+    <string name="flashcard_back_to_classroom">कक्षा सत्र में वापस जाएं</string>
+
+    <!-- Language Packs -->
+    <string name="pack_title">भाषा और सामग्री पैक</string>
+    <string name="pack_subtitle">ऑफ़लाइन मातृभाषा पैक और M3 ऑडियो सामग्री</string>
+    <string name="pack_audio_test_title">M3 संथाली कक्षा-2 ऑडियो परीक्षण</string>
+    <string name="pack_audio_unverified">असत्यापित ऑडियो सामग्री</string>
+    <string name="pack_audio_asset_info">परीक्षण फ़ाइल: %1$s (22050Hz, मोनो, 16-बिट PCM)</string>
+    <string name="pack_play_audio_format">▶️ M3 संथाली ऑडियो चलाएं (%1$s)</string>
+    <string name="pack_stop_audio_format">🔊 ऑडियो रोकें (%1$s)</string>
+    <string name="pack_loading_wav">WAV फ़ाइल लोड हो रही है...</string>
+    <string name="pack_no_packs">कोई भाषा पैक नहीं मिला।</string>
+    <string name="pack_meta_format">लिपि: %1$s | संस्करण: %2$s</string>
+    <string name="pack_reinstall">संथाली डेमो पैक पुनः इंस्टॉल करें (v0.1-डेमो)</string>
+    <string name="pack_reinstall_success">संथाली डेमो पैक (v0.1-डेमो) सफलतापूर्वक पुनः इंस्टॉल किया गया।</string>
+    <string name="pack_reinstall_failed">डेमो पैक रीसेट करने में विफलता।</string>
+    <string name="pack_back_to_home">मुख्य पृष्ठ पर वापस जाएं</string>
+
+    <!-- Navigation Controls -->
+    <string name="nav_previous">पिछला</string>
+    <string name="nav_next">अगला</string>
+</resources>

@@ -1,0 +1,295 @@
+PALASH Hindi → Santali Translation
+Latency and Functional Evaluation Report
+============================================================
+
+Evaluation Date:
+05 September 2026
+
+MODEL
+============================================================
+
+Model:
+AI4Bharat IndicTrans2
+
+Model ID:
+ai4bharat/indictrans2-indic-indic-1B
+
+Source Language:
+hin_Deva
+
+Target Language:
+sat_Olck
+
+
+DEVELOPMENT HARDWARE
+============================================================
+
+GPU:
+NVIDIA GeForce RTX 3060 Laptop GPU
+
+VRAM:
+6 GB
+
+
+SOFTWARE ENVIRONMENT
+============================================================
+
+Python:
+3.10.8
+
+PyTorch:
+2.11.0+cu128
+
+Transformers:
+4.38.2
+
+huggingface-hub:
+0.23.5
+
+IndicTransToolkit:
+Installed
+
+sentencepiece:
+Installed
+
+
+FUNCTIONAL TEST RESULTS
+============================================================
+
+Test 1: Valid Hindi
+Input:
+नमस्ते, आप कैसे हैं?
+
+Status:
+PASS
+
+Observed latency:
+3485.98 ms
+
+Note:
+This invocation may include initial model/GPU warm-up overhead.
+
+
+Test 2: Empty Input
+
+Status:
+PASS
+
+Expected error:
+text cannot be empty
+
+
+Test 3: Unsupported Source Language
+
+Input language:
+eng_Latn
+
+Status:
+PASS
+
+Expected error:
+Unsupported source language: eng_Latn
+
+
+Test 4: Short Sentence
+Input:
+पढ़ो।
+
+Status:
+PASS
+
+Observed latency:
+197.38 ms
+
+
+Test 5: Long Sentence
+Input:
+आज हम कक्षा में एक से दस तक की गिनती सीखेंगे और फिर सभी बच्चे मिलकर संख्याओं को पहचानने का अभ्यास करेंगे।
+
+Status:
+PASS
+
+Observed latency:
+922.10 ms
+
+
+FLN FUNCTIONAL TESTS
+============================================================
+
+Number of FLN test cases:
+5
+
+Successful:
+5
+
+Failed:
+0
+
+FLN functional success rate:
+5/5
+
+
+FLN OBSERVED LATENCIES
+============================================================
+
+FLN 1
+Input:
+गिनती एक से दस तक बोलो।
+
+Latency:
+269.74 ms
+
+Status:
+success
+
+
+FLN 2
+Input:
+त्रिभुज में कितनी भुजाएँ होती हैं?
+
+Latency:
+322.43 ms
+
+Status:
+success
+
+
+FLN 3
+Input:
+दो और तीन को जोड़ने पर कितना होगा?
+
+Latency:
+258.90 ms
+
+Status:
+success
+
+
+FLN 4
+Input:
+वृत्त को पहचानो।
+
+Latency:
+219.51 ms
+
+Status:
+success
+
+
+FLN 5
+Input:
+किताब खोलो और पाठ पढ़ो।
+
+Latency:
+422.87 ms
+
+Status:
+success
+
+
+FLN LATENCY SUMMARY
+============================================================
+
+Minimum observed FLN latency:
+219.51 ms
+
+Maximum observed FLN latency:
+422.87 ms
+
+Average observed FLN latency:
+298.69 ms
+
+
+OVERALL TEST RESULT
+============================================================
+
+Test groups passed:
+6
+
+Test groups failed:
+0
+
+Overall:
+6/6 test groups passed
+
+FLN:
+5/5 successful
+
+
+LATENCY INTERPRETATION
+============================================================
+
+The latency measurements in this report were obtained on the
+NVIDIA GeForce RTX 3060 Laptop GPU development machine.
+
+The first valid translation invocation can include model and
+GPU warm-up overhead and may therefore be significantly slower
+than subsequent inference calls.
+
+For the five tested FLN sentences, observed inference latency
+ranged from 219.51 ms to 422.87 ms, with an average of 298.69 ms.
+
+These are model inference measurements on the development GPU.
+
+They are NOT end-to-end PALASH application latency measurements.
+
+They do NOT establish performance on an Android device.
+
+They do NOT establish offline Android inference.
+
+They do NOT establish a guaranteed translation latency of
+0.31 seconds for all PALASH translations.
+
+The previously observed approximately 0.31-second figure should
+therefore be described only as an observed steady-state inference
+measurement under the tested development-GPU conditions.
+
+
+TRANSLATION QUALITY STATUS
+============================================================
+
+No translation accuracy score is claimed from these functional tests.
+
+The FLN Santali reference translations in fln_translation.csv are
+currently marked:
+
+model_generated_unvalidated
+
+They should not be described as native-speaker-verified ground truth.
+
+Native-speaker validation is still required before using these
+references for a formal translation-quality evaluation.
+
+
+EXECUTION COMMAND
+============================================================
+
+python .\translation_test.py
+
+
+FINAL STATUS
+============================================================
+
+PALASH Hindi → Santali translation service:
+FUNCTIONALLY TESTED
+
+6/6 test groups:
+PASSED
+
+FLN functional tests:
+5/5 PASSED
+
+Development-GPU inference:
+MEASURED
+
+Android offline inference:
+NOT YET DEMONSTRATED
+
+End-to-end application latency:
+NOT YET MEASURED
+
+Translation accuracy:
+NOT YET FORMALLY EVALUATED
+
+Native-speaker validation:
+PENDING

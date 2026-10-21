@@ -1,0 +1,120 @@
+{
+  "grade": 3,
+  "subject": "Mathematics",
+  "topic": "Counting & Numbers",
+  "learning_objective": "Students will count forward and backward within 20, identify the next and previous number, and recognize number sequences.",
+  "validation_note": "Santali strings are sourced from PALASH DATASET.xlsx where available. New Grade 3 numeric combinations are instructional constructions using digits and source-derived Santali prompts.",
+  "validation_status": "source_derived_instruction_with_verified_source_strings",
+  "content_id": "WS-G3-COUNT-001",
+  "title": "Grade 3 Worksheet — Counting & Numbers",
+  "questions": [
+    {
+      "question_id": "WSQG301",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "7, 8, 9, __",
+      "hindi_text": "आगे की संख्या बताओ।",
+      "santali_text": "ᱛᱟᱭᱚᱢ ᱫᱟᱨᱟᱢ ᱱᱚᱢᱵᱚᱨ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "santali_source_id": "C029",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct_answer": "10",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "WSQG302",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "12, 13, 14, __",
+      "hindi_text": "आगे की संख्या बताओ।",
+      "santali_text": "ᱛᱟᱭᱚᱢ ᱫᱟᱨᱟᱢ ᱱᱚᱢᱵᱚᱨ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "santali_source_id": "C029",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct_answer": "15",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "WSQG303",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "__, 9, 10, 11",
+      "hindi_text": "पिछली संख्या बताओ।",
+      "santali_text": "ᱢᱩᱪᱟᱹᱫ ᱮᱞ ᱫᱚ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "santali_source_id": "C030",
+      "options": [
+        "6",
+        "7",
+        "8",
+        "9"
+      ],
+      "correct_answer": "8",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "WSQG304",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "__, 17, 18, 19",
+      "hindi_text": "पिछली संख्या बताओ।",
+      "santali_text": "ᱢᱩᱪᱟᱹᱫ ᱮᱞ ᱫᱚ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "santali_source_id": "C030",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correct_answer": "16",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "WSQG305",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "19, __",
+      "hindi_text": "आगे की संख्या बताओ।",
+      "santali_text": "ᱛᱟᱭᱚᱢ ᱫᱟᱨᱟᱢ ᱱᱚᱢᱵᱚᱨ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "santali_source_id": "C029",
+      "options": [
+        "18",
+        "20",
+        "21",
+        "22"
+      ],
+      "correct_answer": "20",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "WSQG306",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "इन संख्याओं को क्रम में लगाओ: 14, 12, 13",
+      "hindi_text": "इन वस्तुओं को गिनो।",
+      "santali_text": "ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱞᱮᱠᱷᱟ ᱢᱮ ᱾",
+      "santali_source_id": "C034",
+      "options": [
+        "12, 13, 14",
+        "13, 12, 14",
+        "14, 13, 12",
+        "12, 14, 13"
+      ],
+      "correct_answer": "12, 13, 14",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+# 
+
+{"status":"ok","service":"palash-backend","version":"0.1.0"}

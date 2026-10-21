@@ -1,0 +1,120 @@
+{
+  "grade": 3,
+  "subject": "Mathematics",
+  "topic": "Counting & Numbers",
+  "learning_objective": "Students will count forward and backward within 20, identify the next and previous number, and recognize number sequences.",
+  "validation_note": "Santali strings are sourced from PALASH DATASET.xlsx where available. New Grade 3 numeric combinations are instructional constructions using digits and source-derived Santali prompts.",
+  "validation_status": "source_derived_instruction_with_verified_source_strings",
+  "content_id": "AS-G3-COUNT-001",
+  "title": "Grade 3 Assessment — Counting & Numbers",
+  "questions": [
+    {
+      "question_id": "ASG301",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "15 के बाद कौन-सी संख्या आती है?",
+      "hindi_text": "आगे की संख्या बताओ।",
+      "santali_text": "ᱛᱟᱭᱚᱢ ᱫᱟᱨᱟᱢ ᱱᱚᱢᱵᱚᱨ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "santali_source_id": "C029",
+      "options": [
+        "14",
+        "15",
+        "16",
+        "17"
+      ],
+      "correct_answer": "16",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "ASG302",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "12 से पहले कौन-सी संख्या आती है?",
+      "hindi_text": "पिछली संख्या बताओ।",
+      "santali_text": "ᱢᱩᱪᱟᱹᱫ ᱮᱞ ᱫᱚ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "santali_source_id": "C030",
+      "options": [
+        "10",
+        "11",
+        "12",
+        "13"
+      ],
+      "correct_answer": "11",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "ASG303",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "5, 6, 7, __, 9",
+      "hindi_text": "आगे की संख्या बताओ।",
+      "santali_text": "ᱛᱟᱭᱚᱢ ᱫᱟᱨᱟᱢ ᱱᱚᱢᱵᱚᱨ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "santali_source_id": "C029",
+      "options": [
+        "7",
+        "8",
+        "9",
+        "10"
+      ],
+      "correct_answer": "8",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "ASG304",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "20, 19, __, 17",
+      "hindi_text": "पिछली संख्या बताओ।",
+      "santali_text": "ᱢᱩᱪᱟᱹᱫ ᱮᱞ ᱫᱚ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "santali_source_id": "C030",
+      "options": [
+        "16",
+        "17",
+        "18",
+        "19"
+      ],
+      "correct_answer": "18",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "ASG305",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "10, 12, 14, __",
+      "hindi_text": "इन वस्तुओं को गिनो।",
+      "santali_text": "ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱞᱮᱠᱷᱟ ᱢᱮ ᱾",
+      "santali_source_id": "C034",
+      "options": [
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "correct_answer": "16",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    },
+    {
+      "question_id": "ASG306",
+      "grade": 3,
+      "subject": "Mathematics",
+      "topic": "Counting & Numbers",
+      "question": "सबसे बड़ी संख्या चुनो: 11, 19, 14, 17",
+      "hindi_text": "इन वस्तुओं को गिनो।",
+      "santali_text": "ᱱᱚᱶᱟ ᱡᱤᱱᱤᱥ ᱠᱚ ᱞᱮᱠᱷᱟ ᱢᱮ ᱾",
+      "santali_source_id": "C034",
+      "options": [
+        "11",
+        "14",
+        "17",
+        "19"
+      ],
+      "correct_answer": "19",
+      "validation_status": "source_derived_instruction_with_verified_source_strings"
+    }
+  ]
+}

@@ -1,0 +1,82 @@
+{
+  "assessment_id": "AS_G2_COUNTING_001",
+  "title": "PALASH Grade 2 Mathematics Assessment - Counting and Numbers",
+  "grade": 2,
+  "subject": "mathematics",
+  "topic": "counting_numbers",
+  "source_language": "hin_Deva",
+  "target_language": "sat_Olck",
+  "validation_status": "model_generated_unvalidated",
+  "questions": [
+    {
+      "assessment_question_id": "AS001",
+      "content_id": "G2C004",
+      "grade": 2,
+      "subject": "mathematics",
+      "topic": "counting_numbers",
+      "question_type": "count_objects",
+      "hindi": "कितने आम हैं?",
+      "santali": "ᱚᱛᱮ ᱟᱸᱵᱚ ᱢᱮᱱᱟᱜᱼᱟ?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": "3",
+      "difficulty": "easy",
+      "validation_status": "model_generated_unvalidated"
+    },
+    {
+      "assessment_question_id": "AS002",
+      "content_id": "G2C006",
+      "grade": 2,
+      "subject": "mathematics",
+      "topic": "counting_numbers",
+      "question_type": "next_number",
+      "hindi": "चार के बाद कौन-सी संख्या आती है?",
+      "santali": "ᱯᱩᱱ ᱛᱟᱭᱚᱢ ᱚᱠᱟ ᱟᱸᱠ ᱦᱩᱭ ᱟᱭ?",
+      "options": ["3", "4", "5", "6"],
+      "correct_answer": "5",
+      "difficulty": "easy",
+      "validation_status": "model_generated_unvalidated"
+    },
+    {
+      "assessment_question_id": "AS003",
+      "content_id": "G2C007",
+      "grade": 2,
+      "subject": "mathematics",
+      "topic": "counting_numbers",
+      "question_type": "largest_number",
+      "hindi": "सबसे बड़ी संख्या पर घेरा लगाओ।",
+      "santali": "ᱢᱟᱨᱟᱝ ᱟᱸᱠ ᱨᱮ ᱴᱟᱨᱟ ᱮᱦᱚᱵ ᱢᱮ।",
+      "options": ["3", "7", "5"],
+      "correct_answer": "7",
+      "difficulty": "easy",
+      "validation_status": "model_generated_unvalidated"
+    },
+    {
+      "assessment_question_id": "AS004",
+      "content_id": "G2C005",
+      "grade": 2,
+      "subject": "mathematics",
+      "topic": "counting_numbers",
+      "question_type": "write_number",
+      "hindi": "संख्या 7 को अंकों में लिखो।",
+      "santali": "ᱮᱭᱟᱭ ᱟᱸᱠ ᱚᱞ ᱢᱮ।",
+      "options": [],
+      "correct_answer": "7",
+      "difficulty": "easy",
+      "validation_status": "model_generated_unvalidated"
+    },
+    {
+      "assessment_question_id": "AS005",
+      "content_id": "G2C001",
+      "grade": 2,
+      "subject": "mathematics",
+      "topic": "counting_numbers",
+      "question_type": "forward_counting",
+      "hindi": "एक से दस तक गिनो।",
+      "santali": "ᱢᱤᱫ ᱠᱷᱚᱱ ᱜᱮᱞ ᱚᱫᱚᱠ ᱨᱮᱠᱚᱲ ᱢᱮ।",
+      "options": [],
+      "correct_answer": "1-10",
+      "difficulty": "easy",
+      "validation_status": "model_generated_unvalidated"
+    }
+  ]
+}

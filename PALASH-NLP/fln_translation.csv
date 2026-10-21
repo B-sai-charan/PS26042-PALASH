@@ -1,0 +1,34 @@
+﻿id,hindi,santali,category,topic,translation_status
+1,एक से दस तक गिनो।,ᱢᱤᱫ ᱠᱷᱚᱱ ᱜᱮᱞ ᱚᱫᱚᱠ ᱨᱮᱠᱚᱲ ᱢᱮ।,Counting,Count 1 to 10,model_generated_unvalidated
+2,"एक, दो, तीन गिनो।","ᱢᱤᱫ, ᱵᱟᱨ, ᱯᱮ ᱨᱮᱠᱚᱲ ᱢᱮ।",Counting,Count 1 to 3,model_generated_unvalidated
+3,पीछे की ओर दस से एक तक गिनो।,ᱜᱮᱞ ᱠᱷᱚᱱ ᱢᱤᱫ ᱚᱫᱚᱠ ᱛᱟᱭᱚᱢ ᱛᱮ ᱨᱮᱠᱚᱲ ᱢᱮ।,Counting,Backward counting,model_generated_unvalidated
+4,कितने आम हैं?,ᱚᱛᱮ ᱟᱸᱵᱚ ᱢᱮᱱᱟᱜᱼᱟ?,Counting,Count objects,model_generated_unvalidated
+5,संख्या 7 को अंकों में लिखो।,ᱮᱭᱟᱭ ᱟᱸᱠ ᱚᱞ ᱢᱮ।,Numbers,Write numeral,model_generated_unvalidated
+6,चार के बाद कौन-सी संख्या आती है?,ᱯᱩᱱ ᱛᱟᱭᱚᱢ ᱚᱠᱟ ᱟᱸᱠ ᱦᱩᱭ ᱟᱭ?,Numbers,Number sequence,model_generated_unvalidated
+7,सबसे बड़ी संख्या पर घेरा लगाओ।,ᱢᱟᱨᱟᱝ ᱟᱸᱠ ᱨᱮ ᱴᱟᱨᱟ ᱮᱦᱚᱵ ᱢᱮ।,Numbers,Compare numbers,model_generated_unvalidated
+8,सबसे छोटी संख्या कौन-सी है?,ᱦᱩᱰᱤᱧ ᱟᱸᱠ ᱚᱠᱟ ᱠᱟᱱᱟ?,Numbers,Compare numbers,model_generated_unvalidated
+9,दो और तीन जोड़ो।,ᱵᱟᱨ ᱟᱨ ᱯᱮ ᱥᱮᱞᱮᱫ ᱢᱮ।,Addition,Simple addition,model_generated_unvalidated
+10,पाँच में चार जोड़ने पर क्या होगा?,ᱢᱚᱦᱲᱮᱫ ᱨᱮ ᱯᱩᱱ ᱥᱮᱞᱮᱫ ᱠᱟᱛᱮ ᱚᱛᱮ ᱦᱩᱭᱟᱭ?,Addition,Simple addition,model_generated_unvalidated
+11,1 + 1 बराबर क्या है?,1 + 1 ᱚᱛᱮ ᱦᱩᱭᱟᱭ?,Addition,Basic addition equation,model_generated_unvalidated
+12,जोड़ का चिन्ह क्या है?,ᱥᱮᱞᱮᱫ ᱨᱮᱭᱟᱜ ᱪᱤᱱᱦᱟ ᱚᱠᱟ ᱠᱟᱱᱟ?,Addition,Addition symbol,model_generated_unvalidated
+13,पाँच में से दो घटाओ।,ᱢᱚᱦᱲᱮᱫ ᱠᱷᱚᱱ ᱵᱟᱨ ᱵᱟᱜᱦᱟᱲ ᱢᱮ।,Subtraction,Simple subtraction,model_generated_unvalidated
+14,दस में से तीन घटाने पर क्या बचेगा?,ᱜᱮᱞ ᱠᱷᱚᱱ ᱯᱮ ᱵᱟᱜᱦᱟᱲ ᱠᱟᱛᱮ ᱚᱛᱮ ᱛᱟᱦᱮᱸᱱᱟ?,Subtraction,Simple subtraction,model_generated_unvalidated
+15,घटाव का चिन्ह क्या है?,ᱵᱟᱜᱦᱟᱲ ᱨᱮᱭᱟᱜ ᱪᱤᱱᱦᱟ ᱚᱠᱟ ᱠᱟᱱᱟ?,Subtraction,Subtraction symbol,model_generated_unvalidated
+16,बराबर और असमान संख्याओं को पहचानो।,ᱚᱴ ᱟᱨ ᱵᱮᱦᱟᱨ ᱟᱸᱠᱠᱚ ᱵᱟᱰᱟᱭ ᱢᱮ।,Basic mathematics,Equal / unequal,model_generated_unvalidated
+17,सम संख्याओं पर घेरा लगाओ।,ᱡᱚᱲᱟ ᱟᱸᱠᱠᱚ ᱨᱮ ᱴᱟᱨᱟ ᱮᱦᱚᱵ ᱢᱮ।,Basic mathematics,Even numbers,model_generated_unvalidated
+18,विषम संख्याओं की सूची बनाओ।,ᱚᱠᱚᱭᱚᱲᱟ ᱟᱸᱠᱠᱚ ᱨᱮᱭᱟᱜ ᱚᱞ ᱢᱮ।,Basic mathematics,Odd numbers,model_generated_unvalidated
+19,संख्याओं को बढ़ते क्रम में लिखो।,ᱟᱸᱠᱠᱚ ᱵᱟᱲᱛᱤ ᱠᱚᱨᱮᱢ ᱛᱮ ᱚᱞ ᱢᱮ।,Basic mathematics,Ascending order,model_generated_unvalidated
+20,संख्याओं को घटते क्रम में लिखो।,ᱟᱸᱠᱠᱚ ᱴᱤᱴᱤᱲ ᱠᱚᱨᱮᱢ ᱛᱮ ᱚᱞ ᱢᱮ।,Basic mathematics,Descending order,model_generated_unvalidated
+21,त्रिकोण में कितनी भुजाएँ होती हैं?,ᱛᱤᱨᱤᱠᱳᱱ ᱨᱮ ᱚᱛᱮ ᱵᱟᱦᱟ ᱢᱮᱱᱟᱜᱼᱟ?,Shapes,Triangle sides,model_generated_unvalidated
+22,वृत्त और वर्ग में अंतर बताओ।,ᱜᱚᱞ ᱟᱨ ᱪᱚᱠᱚᱨ ᱠᱚ ᱡᱚᱲᱟᱣ ᱢᱮᱱ ᱢᱮ।,Shapes,Circle vs square,model_generated_unvalidated
+23,वर्ग का चित्र बनाओ।,ᱪᱚᱠᱚᱨ ᱨᱩᱯ ᱟᱜ ᱟᱸᱵᱚ ᱫᱟᱲᱮᱭᱟᱜ ᱢᱮ।,Shapes,Draw square,model_generated_unvalidated
+24,इस कमरे में गोल आकार की वस्तुएँ खोजो।,ᱱᱚᱶᱟ ᱚᱲᱟᱜ ᱨᱮ ᱜᱚᱞ ᱨᱩᱯ ᱟᱸᱵᱚ ᱠᱚ ᱧᱟᱢ ᱢᱮ।,Shapes,Identify shapes,model_generated_unvalidated
+25,अपनी किताब खोलो।,ᱟᱢᱟᱜ ᱯᱩᱛᱷᱤ ᱛᱚᱦᱚᱭ ᱢᱮ।,Classroom instructions,Open book,model_generated_unvalidated
+26,शांति से बैठो।,ᱥᱟᱱᱛᱤ ᱛᱮ ᱚᱠᱚᱭ ᱢᱮ।,Classroom instructions,Sit quietly,model_generated_unvalidated
+27,ध्यान से सुनो।,ᱡᱚᱛᱚᱱ ᱛᱮ ᱟᱭᱩᱢ ᱢᱮ।,Classroom instructions,Listen carefully,model_generated_unvalidated
+28,अपना नाम लिखो।,ᱟᱢᱟᱜ ᱧᱩᱛᱩᱢ ᱚᱞ ᱢᱮ।,Classroom instructions,Write name,model_generated_unvalidated
+29,अपने दोस्त के साथ मिलकर गिनो।,ᱟᱢᱟᱜ ᱜᱟᱛᱮ ᱦᱚᱲ ᱥᱟᱶᱛᱮ ᱚᱲᱟᱜ ᱛᱮ ᱨᱮᱠᱚᱲ ᱢᱮ।,Activity instructions,Pair counting,model_generated_unvalidated
+30,रंगीन ब्लॉक से आकार बनाओ।,ᱨᱚᱝ ᱵᱞᱚᱠ ᱛᱮ ᱨᱩᱯ ᱫᱟᱲᱮᱭᱟᱜ ᱢᱮ।,Activity instructions,Shape building,model_generated_unvalidated
+31,"चित्र में जितने वर्ग हैं, उतने गिनो।","ᱪᱤᱛᱟᱨ ᱨᱮ ᱚᱛᱮ ᱪᱚᱠᱚᱨ ᱢᱮᱱᱟᱜᱼᱟ, ᱚᱱᱟ ᱨᱮᱠᱚᱲ ᱢᱮ।",Assessment questions,Count shapes in picture,model_generated_unvalidated
+32,5 और 3 का जोड़ क्या है?,5 ᱟᱨ 3 ᱟᱜ ᱥᱮᱞᱮᱫ ᱚᱛᱮ ᱦᱩᱭᱟᱭ?,Assessment questions,Addition assessment,model_generated_unvalidated
+33,8 में से 5 घटाने पर क्या उत्तर आएगा?,8 ᱠᱷᱚᱱ 5 ᱵᱟᱜᱦᱟᱲ ᱠᱟᱛᱮ ᱚᱛᱮ ᱡᱚᱶᱟᱵ ᱦᱩᱭᱟᱭ?,Assessment questions,Subtraction assessment,model_generated_unvalidated

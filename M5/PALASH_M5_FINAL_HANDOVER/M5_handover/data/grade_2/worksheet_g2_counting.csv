@@ -1,0 +1,6 @@
+﻿question_id,content_id,question_type,hindi,santali,options,correct_answer,validation_status,option_santali
+WSQ001,G2C004,count_objects,कितने आम हैं?,ᱚᱛᱮ ᱟᱸᱵᱚ ᱢᱮᱱᱟᱜᱼᱟ?,1|2|3|4,3,model_generated,ᱢᱤᱫ|ᱵᱟᱨ|ᱯᱮ|ᱯᱩᱱ
+WSQ002,G2C006,next_number,चार के बाद कौन-सी संख्या आती है?,ᱯᱩᱱ ᱛᱟᱭᱚᱢ ᱚᱠᱟ ᱟᱸᱠ ᱦᱩᱭ ᱟᱭ?,3|4|5|6,5,model_generated,ᱯᱮ|ᱯᱩᱱ|ᱢᱚᱬᱮ|ᱛᱩᱨᱩᱭ
+WSQ003,G2C007,largest_number,सबसे बड़ी संख्या पर घेरा लगाओ।,ᱢᱟᱨᱟᱝ ᱟᱸᱠ ᱨᱮ ᱴᱟᱨᱟ ᱮᱦᱚᱵ ᱢᱮ।,3|7|5,7,model_generated,ᱯᱮ|ᱮᱭᱟᱭ|ᱢᱚᱬᱮ
+WSQ004,G2C008,smallest_number,सबसे छोटी संख्या कौन-सी है?,ᱦᱩᱰᱤᱧ ᱟᱸᱠ ᱚᱠᱟ ᱠᱟᱱᱟ?,8|2|5,2,model_generated,ᱤᱨᱟᱹᱞ|ᱵᱟᱨ|ᱢᱚᱬᱮ
+WSQ005,G2C005,write_number,संख्या 7 को अंकों में लिखो।,ᱮᱭᱟᱭ ᱟᱸᱠ ᱚᱞ ᱢᱮ।,,7,model_generated,

@@ -1,0 +1,42 @@
+id,file,relative_path,category,current_text,student_facing,needs_santali,context,notes
+SET_01,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Student Device Setup",YES,YES,Setup Screen Title,Title string on setup screen
+SET_02,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Configure Grade & Section for receiving classroom translations.",YES,YES,Setup Subtitle,Subtitle on setup screen
+SET_03,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Select Grade (ᱪᱟᱱᱟᱪ ᱪᱷᱟᱸᱴᱟᱭ ᱢե)",YES,YES,Grade Section Label,Contains draft Ol Chiki text
+SET_04,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Grade 1",YES,YES,Grade 1 Option Card,Grade choice 1
+SET_05,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Grade 2 (Active)",YES,YES,Grade 2 Option Card,Grade choice 2 (active demo)
+SET_06,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Select Section",YES,YES,Section Filter Header,Section header
+SET_07,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Section A",YES,YES,Section A Chip,Section choice
+SET_08,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Section B",YES,YES,Section B Chip,Section choice
+SET_09,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Teacher Local Network Address",YES,YES,Network Address Header,Network config header
+SET_10,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Teacher IP",YES,YES,IP Field Label,TextField label
+SET_11,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Port",YES,YES,Port Field Label,TextField label
+SET_12,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Save & Launch Student View",YES,YES,Submit Button,Main action button
+SET_13,StudentSetupScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/role/StudentSetupScreen.kt,STUDENT_SETUP,"Back to Role Selection",YES,YES,Back Button,Navigation back button
+CLS_01,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"ᱪᱮᱛᱮᱫᱤᱭᱟᱹ (Student Mode)",YES,YES,Student Top Header Subtitle,Top brand header subtitle
+CLS_02,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"Assigned Device Configuration",YES,YES,Configuration Card Header,Config card title
+CLS_03,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"Grade %1$d (ᱪᱟᱱᱟᱪ %2$s) — Section %3$s",YES,YES,Assigned Grade/Section Badge,Contains dynamic grade and section
+CLS_04,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"🟢 Connected",YES,YES,Connected Network Status,Active server connection badge
+CLS_05,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"🟡 Connecting",YES,YES,Connecting Network Status,Pending connection badge
+CLS_06,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"🟠 Section Mismatch",YES,YES,Section Mismatch Status,Ignored section status badge
+CLS_07,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"🔴 Server Offline",YES,YES,Server Offline Status,Teacher server offline badge
+CLS_08,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"📢 TEACHER LESSON",YES,YES,Received Broadcast Header,Broadcast card title
+CLS_09,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"ᱥᱟᱱᱛᱟᱲᱤ (SANTALI)",YES,YES,Santali Text Header,Language header
+CLS_10,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"🔊 Listen (ᱥᱟᱲᱮ ᱟᱸᱡᱚᱢ ᱢե)",YES,YES,Play Audio Button,Playback trigger button
+CLS_11,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"🔊 Playing Santali Audio...",YES,YES,Audio Playing State,Playback active button label
+CLS_12,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"Audio unavailable",YES,YES,Missing Audio Badge,Fallback audio missing badge
+CLS_13,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"📡 Listening for Teacher Broadcast",YES,YES,Waiting Card Title,Empty state title
+CLS_14,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"When the teacher speaks in Grade %1$d..., real-time Santali lessons will appear here...",YES,YES,Waiting Card Description,Empty state description
+CLS_15,StudentHomeScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/student/StudentHomeScreen.kt,STUDENT_CLASSROOM,"⚙️ Reconfigure Device Role / Teacher IP",YES,YES,Reconfigure Button,Reconfiguration button
+LRN_01,LessonScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/lesson/LessonScreen.kt,STUDENT_LEARNING_CONTENT_UI,"कार्यपत्रक खोलें (Worksheet)",YES,YES,Open Worksheet Button,Lesson to worksheet transition
+LRN_02,WorksheetScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/worksheet/WorksheetScreen.kt,STUDENT_LEARNING_CONTENT_UI,"Practice Flashcards",YES,YES,Practice Flashcards Button,Worksheet to flashcards transition
+LRN_03,WorksheetScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/worksheet/WorksheetScreen.kt,STUDENT_LEARNING_CONTENT_UI,"Question %1$d of %2$d",YES,YES,Question Count Header,Worksheet progress
+LRN_04,WorksheetScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/worksheet/WorksheetScreen.kt,STUDENT_LEARNING_CONTENT_UI,"सही उत्तर चुनें (Select Option):",YES,YES,Option Selection Prompt,Multiple choice prompt
+LRN_05,WorksheetScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/worksheet/WorksheetScreen.kt,STUDENT_LEARNING_CONTENT_UI,"✓ Correct Answer!",YES,YES,Correct Feedback,Success feedback
+LRN_06,WorksheetScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/worksheet/WorksheetScreen.kt,STUDENT_LEARNING_CONTENT_UI,"✕ Try Again (Correct: %1$s)",YES,YES,Incorrect Feedback,Failure feedback
+LRN_07,FlashcardScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/flashcard/FlashcardScreen.kt,STUDENT_LEARNING_CONTENT_UI,"Card %1$d of %2$d",YES,YES,Card Count Header,Flashcard progress
+LRN_08,FlashcardScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/flashcard/FlashcardScreen.kt,STUDENT_LEARNING_CONTENT_UI,"Tap card to flip",YES,YES,Card Interaction Hint,Interaction guidance
+LRN_09,FlashcardScreen.kt,app/src/main/java/com/sih2026/palash/ui/screens/flashcard/FlashcardScreen.kt,STUDENT_LEARNING_CONTENT_UI,"Previous / Next",YES,YES,Card Navigation Buttons,Pagination controls
+SHR_01,M6Components.kt,app/src/main/java/com/sih2026/palash/ui/components/M6Components.kt,SHARED_UI,"पलाश / ᱯᱚᱞᱟᱥ",YES,YES,App Title,Brand header title
+SHR_02,M6Components.kt,app/src/main/java/com/sih2026/palash/ui/components/M6Components.kt,SHARED_UI,"भाषाओं को जोड़ें, सीखने का उजाला फैलाएं",YES,YES,App Tagline,Brand header tagline
+SHR_03,M6Components.kt,app/src/main/java/com/sih2026/palash/ui/components/M6Components.kt,SHARED_UI,"📡 ऑफ़लाइन काम करता है",YES,YES,Offline Badge,Brand header offline badge
+SHR_04,M6Components.kt,app/src/main/java/com/sih2026/palash/ui/components/M6Components.kt,SHARED_UI,"विद्यार्थी / ᱪᱮᱛᱮᱫᱤᱭᱟᱹ",YES,YES,Student Role Title,Role card label

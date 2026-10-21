@@ -1,0 +1,16 @@
+﻿lesson_id,section_id,type,grade,subject,topic,number,heading,hindi,santali,visual,validation_status
+LESSON_G2_COUNTING_001,SEC01,introduction,2,mathematics,counting_numbers_and_operations,,गिनती सीखें,आइए 1 से 10 तक गिनती सीखें।,1 ᱠᱷᱚᱱ 10 ᱫᱷᱟᱵᱤᱡ ᱮᱞ ᱪᱮᱫ ᱢᱮ।,,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC02,teacher_instruction,2,mathematics,counting_numbers_and_operations,,वस्तुओं को गिनो,हर वस्तु को एक-एक करके गिनो और सही संख्या बोलो।,ᱯᱨᱚᱛᱤ ᱡᱤᱱᱤᱥ ᱢᱤᱫ ᱢᱤᱫ ᱛᱮ ᱮᱞ ᱟᱨ ᱥᱟᱹᱨᱤ ᱮᱞ ᱢᱮᱱ ᱢᱮ।,,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,1,संख्याएँ 1 से 10,एक,ᱢᱤᱫ,🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,2,संख्याएँ 1 से 10,दो,ᱵᱟᱨ,🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,3,संख्याएँ 1 से 10,तीन,ᱯᱮ,🍎🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,4,संख्याएँ 1 से 10,चार,ᱯᱩᱱ,🍎🍎🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,5,संख्याएँ 1 से 10,पाँच,ᱢᱚᱬᱮ,🍎🍎🍎🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,6,संख्याएँ 1 से 10,छह,ᱛᱩᱨᱩᱭ,🍎🍎🍎🍎🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,7,संख्याएँ 1 से 10,सात,ᱮᱭᱟᱭ,🍎🍎🍎🍎🍎🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,8,संख्याएँ 1 से 10,आठ,ᱤᱨᱟᱹᱞ,🍎🍎🍎🍎🍎🍎🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,9,संख्याएँ 1 से 10,नौ,ᱟᱨᱮ,🍎🍎🍎🍎🍎🍎🍎🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC03,number,2,mathematics,counting_numbers_and_operations,10,संख्याएँ 1 से 10,दस,ᱜᱮᱞ,🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC04,example,2,mathematics,counting_numbers_and_operations,,उदाहरण,🍎🍎🍎 को गिनो। यहाँ 3 सेब हैं।,🍎🍎🍎 ᱮᱞ ᱢᱮ। ᱱᱚᱶᱟ ᱨᱮ 3 ᱥᱮᱵ ᱢᱮᱱᱟᱜᱼᱟ।,🍎🍎🍎,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC05,student_activity,2,mathematics,counting_numbers_and_operations,,तुम्हारी गतिविधि,अपने आसपास 5 वस्तुएँ खोजो और उन्हें गिनो।,ᱟᱢ ᱟᱬᱮᱵ 5 ᱡᱤᱱᱤᱥ ᱯᱟᱧᱡᱟ ᱟᱨ ᱩᱱᱠᱩ ᱮᱞ ᱢᱮ।,,model_generated_unvalidated
+LESSON_G2_COUNTING_001,SEC06,assessment_prompt,2,mathematics,counting_numbers_and_operations,,अब अभ्यास करें,सही संख्या पहचानो और गिनती का अभ्यास करो।,ᱥᱟᱹᱨᱤ ᱮᱞ ᱩᱯᱨᱩᱢ ᱢᱮ ᱟᱨ ᱮᱞ ᱪᱮᱫ ᱢᱮ।,,model_generated_unvalidated

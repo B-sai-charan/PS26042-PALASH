@@ -1,0 +1,167 @@
+[
+  {
+    "id": "P001",
+    "hindiText": "सभी बच्चे बैठ जाओ।",
+    "normalizedHindi": "सभी बच्चे बैठ जाओ",
+    "santaliText": "ᱥᱟᱱᱟᱢ ᱜᱤᱫᱽᱨᱟᱹ, ᱫᱩᱲᱩᱵ ᱢᱮ᱾",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 1 from Sheet1"
+  },
+  {
+    "id": "P002",
+    "hindiText": "आज हम क्या सीखेंगे?",
+    "normalizedHindi": "आज हम क्या सीखेंगे",
+    "santaliText": "ᱛᱮᱦᱮᱧ ᱟᱵᱚ ᱪᱮᱫ ᱵᱚᱱ ᱪᱮᱫᱚᱜᱼᱟ?",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 2 from Sheet1"
+  },
+  {
+    "id": "P003",
+    "hindiText": "नमस्ते बच्चों।",
+    "normalizedHindi": "नमस्ते बच्चों",
+    "santaliText": "ᱡᱚᱦᱟᱨ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ ᱾",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 3 from Sheet1"
+  },
+  {
+    "id": "P004",
+    "hindiText": "आप सभी चुप रहें।",
+    "normalizedHindi": "आप सभी चुप रहें",
+    "santaliText": "ᱟᱯᱮ ᱡᱚᱛᱚ ᱦᱚᱲ ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱛᱷᱤᱨ ᱛᱟᱦᱮᱱ ᱢᱮ᱾",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 4 from Sheet1"
+  },
+  {
+    "id": "P005",
+    "hindiText": "अपनी पुस्तकें खोलो",
+    "normalizedHindi": "अपनी पुस्तकें खोलो",
+    "santaliText": "ᱟᱢᱟᱜ ᱯᱚᱛᱚᱵ ᱡᱷᱤᱡᱽ ᱢᱮ",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 5 from Sheet1"
+  },
+  {
+    "id": "P006",
+    "hindiText": "शुभकामनाएं",
+    "normalizedHindi": "शुभकामनाएं",
+    "santaliText": "ᱥᱟᱹᱜᱩᱱ ᱥᱟᱱᱟᱝ",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 6 from Sheet1"
+  },
+  {
+    "id": "P007",
+    "hindiText": "तुम्हें कितने नंबर मिले?",
+    "normalizedHindi": "तुम्हें कितने नंबर मिले",
+    "santaliText": "ᱟᱢ ᱛᱤᱱᱟᱹᱜ ᱪᱤᱱᱦᱟᱹ ᱮᱢ ᱧᱟᱢ ᱠᱮᱫᱟ?",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 7 from Sheet1"
+  },
+  {
+    "id": "P008",
+    "hindiText": "कृपया इसे एक बार फिर समझा दें।",
+    "normalizedHindi": "कृपया इसे एक बार फिर समझा दें",
+    "santaliText": "ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱣᱟ ᱫᱚ ᱢᱤᱫ ᱫᱷᱟᱣ ᱫᱚᱦᱲᱟ ᱞᱟᱹᱭ ᱢᱮ᱾",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 8 from Sheet1"
+  },
+  {
+    "id": "P009",
+    "hindiText": "क्या मैं शौचालय जा सकता हुँ?",
+    "normalizedHindi": "क्या मैं शौचालय जा सकता हुँ",
+    "santaliText": "ᱪᱮᱫ ᱤᱧ ᱴᱚᱭᱞᱮᱴ ᱥᱮᱱ ᱫᱟᱲᱮᱭᱟᱜᱼᱟᱹᱧ?",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 9 from Sheet1"
+  },
+  {
+    "id": "P010",
+    "hindiText": "चुपचाप बैठें",
+    "normalizedHindi": "चुपचाप बैठें",
+    "santaliText": "ᱛᱷᱤᱨ ᱛᱷᱤᱨ ᱫᱩᱲᱩᱵ ᱢᱮ",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 10 from Sheet1"
+  },
+  {
+    "id": "P011",
+    "hindiText": "आप सभी अच्छी तरह तैयारी करें।",
+    "normalizedHindi": "आप सभी अच्छी तरह तैयारी करें",
+    "santaliText": "ᱟᱯᱮ ᱡᱚᱛᱚ ᱦᱚᱲ ᱱᱟᱯᱟᱭ ᱛᱮ ᱥᱟᱯᱲᱟᱣᱚᱜ ᱢᱮ᱾",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 11 from Sheet1"
+  },
+  {
+    "id": "P012",
+    "hindiText": "शोर मत करो.",
+    "normalizedHindi": "शोर मत करो",
+    "santaliText": "ᱠᱟᱞᱠᱟᱞᱟᱣ ᱟᱞᱚᱢ ᱛᱮᱭᱟᱨᱟ᱾",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 12 from Sheet1"
+  },
+  {
+    "id": "P013",
+    "hindiText": "नमस्ते बच्चों, आज हम गणित सीखेंगे।",
+    "normalizedHindi": "नमस्ते बच्चों, आज हम गणित सीखेंगे",
+    "santaliText": "ᱡᱚᱦᱟᱨ ᱜᱤᱫᱽᱨᱟᱹ ᱠᱚ, ᱛᱮᱦᱮᱧ ᱟᱵᱚ ᱮᱞᱠᱷᱟ ᱵᱚᱱ ᱪᱮᱫᱟ᱾",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 13 from Sheet1"
+  },
+  {
+    "id": "P014",
+    "hindiText": "इसे ज़रूर लिखें।",
+    "normalizedHindi": "इसे ज़रूर लिखें",
+    "santaliText": "ᱫᱟᱭᱟ ᱠᱟᱛᱮ ᱱᱚᱣᱟ ᱚᱞ ᱢᱮ᱾",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 14 from Sheet1"
+  },
+  {
+    "id": "P015",
+    "hindiText": "आप सभी की कल परीक्षा है।",
+    "normalizedHindi": "आप सभी की कल परीक्षा है",
+    "santaliText": "ᱟᱯᱮ ᱥᱟᱱᱟᱢ ᱠᱚᱣᱟᱜ ᱜᱟᱯᱟ ᱵᱤᱱᱤᱰ ᱢᱮᱱᱟᱜᱼᱟ ᱾",
+    "romanizedSantali": null,
+    "audioFilename": null,
+    "source": "phrases.txt.xlsx",
+    "validationStatus": "EXCEL_PRELOADED_AUTHORITATIVE",
+    "notes": "Row 15 from Sheet1"
+  }
+]

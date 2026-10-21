@@ -1,0 +1,11 @@
+﻿PALASH Hindi → Santali Baseline Evaluation
+
+Model: ai4bharat/indictrans2-indic-indic-1
+Dataset: evaluation_sentences.csv
+Evaluation pairs: 20
+Device: NVIDIA GeForce RTX 3060 Laptop GPU
+
+BLEU Score: 0.39
+chrF Score: 17.54
+
+Status: Baseline evaluation completed successfully.

@@ -1,0 +1,77 @@
+[
+  {
+    "id": 1,
+    "http_status": 200,
+    "latency_ms": 810.34,
+    "model_latency_ms": 803.78,
+    "status": "success",
+    "source_text": "किसानों को सरकारी योजना का लाभ मिलेगा।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱟᱜ ᱢᱤᱫᱴᱟᱝ ᱯᱚᱨᱤᱢᱟᱱ ᱠᱷᱚᱱ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱵᱷᱟᱞᱮ ᱧᱟᱢᱼᱟ ᱾",
+    "error": null
+  },
+  {
+    "id": 1,
+    "status": "error",
+    "error": "'charmap' codec can't encode characters in position 0-6: character maps to <undefined>"
+  },
+  {
+    "id": 2,
+    "http_status": 200,
+    "latency_ms": 604.62,
+    "model_latency_ms": 579.75,
+    "status": "success",
+    "source_text": "किसान सरकारी योजना के लिए आवेदन कर सकते हैं।",
+    "translated_text": "ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱥᱚᱨᱠᱟᱨ ᱟᱜ ᱯᱚᱨᱤᱢᱟᱱ ᱞᱟᱹᱜᱤᱫ ᱟᱨᱡᱤ ᱮᱢ ᱫᱟᱲᱮᱭᱟᱜᱼᱟ ᱾",
+    "error": null
+  },
+  {
+    "id": 2,
+    "status": "error",
+    "error": "'charmap' codec can't encode characters in position 0-4: character maps to <undefined>"
+  },
+  {
+    "id": 3,
+    "http_status": 200,
+    "latency_ms": 403.91,
+    "model_latency_ms": 401.07,
+    "status": "success",
+    "source_text": "सरकार किसानों को आर्थिक सहायता प्रदान करेगी।",
+    "translated_text": "ᱥᱚᱨᱠᱟᱨ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱠᱟᱹᱣᱰᱤ ᱜᱚᱲᱚ ᱠᱚ ᱮᱢᱼᱟ ᱾",
+    "error": null
+  },
+  {
+    "id": 3,
+    "status": "error",
+    "error": "'charmap' codec can't encode characters in position 0-4: character maps to <undefined>"
+  },
+  {
+    "id": 4,
+    "http_status": 200,
+    "latency_ms": 485.95,
+    "model_latency_ms": 469.91,
+    "status": "success",
+    "source_text": "यह योजना छोटे और सीमांत किसानों के लिए है।",
+    "translated_text": "ᱱᱚᱶᱟ ᱯᱚᱨᱤᱠᱚᱞ ᱫᱚ ᱦᱩᱰᱤᱧ ᱟᱨ ᱦᱩᱰᱤᱧ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱞᱟᱹᱜᱤᱫ ᱾",
+    "error": null
+  },
+  {
+    "id": 4,
+    "status": "error",
+    "error": "'charmap' codec can't encode characters in position 0-1: character maps to <undefined>"
+  },
+  {
+    "id": 5,
+    "http_status": 200,
+    "latency_ms": 650.16,
+    "model_latency_ms": 633.54,
+    "status": "success",
+    "source_text": "लाभ प्राप्त करने के लिए किसानों को आवश्यक दस्तावेज जमा करने होंगे।",
+    "translated_text": "ᱵᱷᱟᱞᱮ ᱧᱟᱢ ᱞᱟᱹᱜᱤᱫ ᱪᱟᱥᱤᱭᱟᱹ ᱠᱚ ᱞᱟᱹᱠᱛᱤ ᱟᱱᱟᱜ ᱱᱚᱛᱷᱤ ᱠᱚ ᱮᱢ ᱦᱩᱭᱩᱜ ᱛᱟᱢᱟ ᱾",
+    "error": null
+  },
+  {
+    "id": 5,
+    "status": "error",
+    "error": "'charmap' codec can't encode characters in position 0-2: character maps to <undefined>"
+  }
+]

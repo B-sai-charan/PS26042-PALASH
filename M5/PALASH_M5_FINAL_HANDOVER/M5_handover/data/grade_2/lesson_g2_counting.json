@@ -1,0 +1,145 @@
+{
+  "lesson_id": "LESSON_G2_COUNTING_001",
+  "title": "PALASH Grade 2 Mathematics - Counting and Numbers",
+  "grade": 2,
+  "subject": "mathematics",
+  "topic": "counting_numbers_and_operations",
+  "source_language": "hin_Deva",
+  "target_language": "sat_Olck",
+  "learning_objective": "Students identify, count, read and match numbers from 1 to 10 using objects and bilingual Hindi-Santali support.",
+  "prerequisite": "Basic familiarity with objects and spoken counting.",
+  "fln_alignment_basis": "Foundational numeracy / early mathematics learning",
+  "translation_source": "AI/model-generated content",
+  "validation_status": "model_generated_unvalidated",
+  "sections": [
+    {
+      "section_id": "SEC01",
+      "type": "introduction",
+      "heading": "गिनती सीखें",
+      "hindi": "आइए 1 से 10 तक गिनती सीखें।",
+      "santali": "1 ᱠᱷᱚᱱ 10 ᱫᱷᱟᱵᱤᱡ ᱮᱞ ᱪᱮᱫ ᱢᱮ।",
+      "validation_status": "model_generated_unvalidated",
+      "audio_file": "L2_SEC01.wav"
+    },
+    {
+      "section_id": "SEC02",
+      "type": "teacher_instruction",
+      "heading": "वस्तुओं को गिनो",
+      "hindi": "हर वस्तु को एक-एक करके गिनो और सही संख्या बोलो।",
+      "santali": "ᱯᱨᱚᱛᱤ ᱡᱤᱱᱤᱥ ᱢᱤᱫ ᱢᱤᱫ ᱛᱮ ᱮᱞ ᱟᱨ ᱥᱟᱹᱨᱤ ᱮᱞ ᱢᱮᱱ ᱢᱮ।",
+      "validation_status": "model_generated_unvalidated",
+      "audio_file": "L2_SEC02.wav"
+    },
+    {
+      "section_id": "SEC03",
+      "type": "number_learning",
+      "heading": "संख्याएँ 1 से 10",
+      "hindi": "संख्या, उसका नाम और वस्तुओं की गिनती देखो।",
+      "santali": "ᱮᱞ, ᱤᱧ ᱧᱩᱛᱩᱢ ᱟᱨ ᱡᱤᱱᱤᱥ ᱮᱞ ᱧᱮᱞ ᱢᱮ।",
+      "numbers": [
+        {
+          "number": 1,
+          "hindi": "एक",
+          "santali": "ᱢᱤᱫ",
+          "visual": "🍎",
+          "validation_status": "model_generated_unvalidated"
+        },
+        {
+          "number": 2,
+          "hindi": "दो",
+          "santali": "ᱵᱟᱨ",
+          "visual": "🍎🍎",
+          "validation_status": "model_generated_unvalidated"
+        },
+        {
+          "number": 3,
+          "hindi": "तीन",
+          "santali": "ᱯᱮ",
+          "visual": "🍎🍎🍎",
+          "validation_status": "model_generated_unvalidated"
+        },
+        {
+          "number": 4,
+          "hindi": "चार",
+          "santali": "ᱯᱩᱱ",
+          "visual": "🍎🍎🍎🍎",
+          "validation_status": "model_generated_unvalidated"
+        },
+        {
+          "number": 5,
+          "hindi": "पाँच",
+          "santali": "ᱢᱚᱬᱮ",
+          "visual": "🍎🍎🍎🍎🍎",
+          "validation_status": "model_generated_unvalidated"
+        },
+        {
+          "number": 6,
+          "hindi": "छह",
+          "santali": "ᱛᱩᱨᱩᱭ",
+          "visual": "🍎🍎🍎🍎🍎🍎",
+          "validation_status": "model_generated_unvalidated"
+        },
+        {
+          "number": 7,
+          "hindi": "सात",
+          "santali": "ᱮᱭᱟᱭ",
+          "visual": "🍎🍎🍎🍎🍎🍎🍎",
+          "validation_status": "model_generated_unvalidated"
+        },
+        {
+          "number": 8,
+          "hindi": "आठ",
+          "santali": "ᱤᱨᱟᱹᱞ",
+          "visual": "🍎🍎🍎🍎🍎🍎🍎🍎",
+          "validation_status": "model_generated_unvalidated"
+        },
+        {
+          "number": 9,
+          "hindi": "नौ",
+          "santali": "ᱟᱨᱮ",
+          "visual": "🍎🍎🍎🍎🍎🍎🍎🍎🍎",
+          "validation_status": "model_generated_unvalidated"
+        },
+        {
+          "number": 10,
+          "hindi": "दस",
+          "santali": "ᱜᱮᱞ",
+          "visual": "🍎🍎🍎🍎🍎🍎🍎🍎🍎🍎",
+          "validation_status": "model_generated_unvalidated"
+        }
+      ],
+      "validation_status": "model_generated_unvalidated",
+      "audio_file": "L2_SEC03.wav"
+    },
+    {
+      "section_id": "SEC04",
+      "type": "example",
+      "heading": "उदाहरण",
+      "hindi": "🍎🍎🍎 को गिनो। यहाँ 3 सेब हैं।",
+      "santali": "🍎🍎🍎 ᱮᱞ ᱢᱮ। ᱱᱚᱶᱟ ᱨᱮ 3 ᱥᱮᱵ ᱢᱮᱱᱟᱜᱼᱟ।",
+      "visual": "🍎🍎🍎",
+      "validation_status": "model_generated_unvalidated",
+      "audio_file": "L2_SEC04.wav"
+    },
+    {
+      "section_id": "SEC05",
+      "type": "student_activity",
+      "heading": "तुम्हारी गतिविधि",
+      "hindi": "अपने आसपास 5 वस्तुएँ खोजो और उन्हें गिनो।",
+      "santali": "ᱟᱢ ᱟᱬᱮᱵ 5 ᱡᱤᱱᱤᱥ ᱯᱟᱧᱡᱟ ᱟᱨ ᱩᱱᱠᱩ ᱮᱞ ᱢᱮ।",
+      "validation_status": "model_generated_unvalidated",
+      "audio_file": "L2_SEC05.wav"
+    },
+    {
+      "section_id": "SEC06",
+      "type": "assessment_prompt",
+      "heading": "अब अभ्यास करें",
+      "hindi": "सही संख्या पहचानो और गिनती का अभ्यास करो।",
+      "santali": "ᱥᱟᱹᱨᱤ ᱮᱞ ᱩᱯᱨᱩᱢ ᱢᱮ ᱟᱨ ᱮᱞ ᱪᱮᱫ ᱢᱮ।",
+      "validation_status": "model_generated_unvalidated",
+      "audio_file": "L2_SEC06.wav"
+    }
+  ],
+  "expected_learning_outcome": "Students can recognize numbers 1-10, count simple groups of objects, and connect numerals with Hindi and Santali number words.",
+  "notes": "Santali content is model-generated/unvalidated and must not be described as native-speaker validated."
+}

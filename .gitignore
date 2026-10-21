@@ -1,0 +1,116 @@
+# ==============================================================================
+# PALASH Workspace Root .gitignore (SIH 2026 - PS26042)
+# Configured for clean GitHub backup (respecting GitHub 100MB file limit)
+# ==============================================================================
+
+# ------------------------------------------------------------------------------
+# 1. Python Virtual Environments
+# ------------------------------------------------------------------------------
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+*.venv
+
+# ------------------------------------------------------------------------------
+# 2. Python Caches, Bytecode & Testing Artifacts
+# ------------------------------------------------------------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+.pytest_cache/
+.coverage
+.coverage.*
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# ------------------------------------------------------------------------------
+# 3. Android Gradle Build Artifacts & Binaries
+# ------------------------------------------------------------------------------
+.gradle/
+.kotlin/
+**/build/
+build/
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+captures/
+.externalNativeBuild/
+.cxx/
+
+# ------------------------------------------------------------------------------
+# 4. IDE, OS & Local User Files
+# ------------------------------------------------------------------------------
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+local.properties
+.DS_Store
+Thumbs.db
+ehthumbs.db
+[Nn]esktop.ini
+
+# ------------------------------------------------------------------------------
+# 5. Heavy Temporary Crash & Log Files
+# ------------------------------------------------------------------------------
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+
+# ------------------------------------------------------------------------------
+# 6. Monolithic Historical Backup Archives & Git Bundles (>100 MB GitHub Limit)
+# GitHub blocks pushes containing any single file > 100 MB.
+# Active source code, models, assets, and configs remain safely tracked.
+# ------------------------------------------------------------------------------
+*.bundle
+.git_backup_nested/
+**/.git_backup_nested/
+*.git_backup*
+M2/PALASH_PRE_MODIFICATION_BACKUP_*/
+M4/backups/
+PALASH_M3_M4_FINAL_TTS_HANDOFF.zip
+**/PALASH_M3_M4_FINAL_TTS_HANDOFF.zip
+
+# ------------------------------------------------------------------------------
+# 7. CRITICAL PRESERVATION SAFEGUARDS (DO NOT IGNORE)
+# Explicitly keep database, datasets, audio, presentations, models & code
+# ------------------------------------------------------------------------------
+!palash.db
+!*.db
+!*.csv
+!*.tsv
+!*.json
+!*.wav
+!*.mp3
+!*.onnx
+!*.pptx
+!*.pdf
+!*.py
+!*.kt
+!*.java
+!*.sh
+!*.bat
+!*.md
+!*.txt

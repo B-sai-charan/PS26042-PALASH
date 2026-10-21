@@ -1,0 +1,273 @@
+<!DOCTYPE html>
+<html lang="hi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>PALASH - Grade 2 Mathematics: Counting and Numbers</title>
+<style>
+body { font-family: Arial, sans-serif; margin: 0; padding: 20px; }
+.container { max-width: min(95vw, 1100px); margin: auto; }
+.header { text-align: center; margin-bottom: 30px; }
+.header h1 { font-size: clamp(28px, 4vw, 44px); margin-bottom: 8px; }
+.header h2 { font-size: clamp(20px, 3vw, 32px); margin: 8px 0; }
+.header p { font-size: clamp(16px, 2.2vw, 24px); }
+.question { border: 1px solid #999; border-radius: 12px; padding: clamp(16px, 2.5vw, 32px); margin-bottom: 25px; }
+.question h3 { margin-top: 0; font-size: clamp(20px, 3vw, 30px); }
+.hindi { font-size: clamp(22px, 3.5vw, 36px); font-weight: bold; margin-bottom: 10px; }
+.santali-row { display: flex; align-items: center; gap: 10px; margin-bottom: 15px; flex-wrap: wrap; }
+.santali { font-size: clamp(20px, 3vw, 32px); }
+.visual { font-size: clamp(30px, 5.5vw, 60px); margin: 15px 0; }
+.audio-button { padding: clamp(7px, 1.2vw, 16px) clamp(10px, 1.8vw, 20px); font-size: clamp(16px, 2.2vw, 28px); cursor: pointer; border: 1px solid #777; border-radius: 8px; background: white; }
+.option { display: flex; align-items: center; gap: 8px; padding: clamp(12px, 1.8vw, 22px); margin: 8px 0; border: 1px solid #aaa; border-radius: 8px; cursor: pointer; color: black; background-color: white; font-size: clamp(18px, 2.5vw, 28px); }
+.option input { margin-right: 2px; }
+.option-number { font-weight: bold; }
+.option-santali { margin-left: 8px; }
+.correct-answer { color: green !important; font-weight: bold; background-color: rgba(0, 255, 0, 0.6) !important; border: 1px solid green !important; }
+.wrong { color: black !important; font-weight: bold; background-color: rgba(255, 0, 0, 0.6) !important; border: 1px solid red !important; }
+.unanswered { color: black !important; background-color: #d3d3d3 !important; border: 1px solid #999 !important; }
+.text-answer { width: 100%; max-width: 400px; padding: clamp(10px, 1.5vw, 18px); font-size: clamp(18px, 2.5vw, 28px); margin-top: 10px; border: 1px solid #999; border-radius: 6px; }
+.check-button { padding: clamp(14px, 2vw, 24px) clamp(25px, 3.5vw, 45px); font-size: clamp(18px, 2.5vw, 30px); cursor: pointer; margin-top: 10px; }
+.result { margin-top: 25px; padding: 20px; font-size: clamp(20px, 3vw, 32px); font-weight: bold; text-align: center; }
+.answer-feedback { margin-top: 10px; padding: 10px; font-size: clamp(16px, 2.2vw, 24px); font-weight: bold; border-radius: 6px; }
+.correct-feedback { color: green; background-color: rgba(0, 255, 0, 0.6); }
+</style>
+</head>
+<body>
+<div class="container">
+<div class="header">
+<h1>PALASH 🌸</h1>
+<h2>PALASH - Grade 2 Mathematics: Counting and Numbers</h2>
+<p>Grade 2 | mathematics | counting_numbers</p>
+<p>Answer all questions and click Submit Answers.</p>
+</div>
+<form id="worksheetForm">
+
+<div class="question">
+<h3>Question 1</h3>
+<div class="hindi">कितने आम हैं?</div>
+<div class="santali-row">
+<div class="santali">ᱚᱛᱮ ᱟᱸᱵᱚ ᱢᱮᱱᱟᱜᱼᱟ?</div>
+<button type="button" class="audio-button" onclick="playAudio('../audio/santali_audio/worksheet/WSQ001_question.wav')">🔊</button>
+</div>
+<div class="visual">🍎 🍎 🍎</div>
+<label class="option">
+<input type="radio" name="WSQ001" value="1">
+<span class="option-number">1</span><span class="option-santali">— ᱢᱤᱫ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_1.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ001" value="2">
+<span class="option-number">2</span><span class="option-santali">— ᱵᱟᱨ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_2.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ001" value="3">
+<span class="option-number">3</span><span class="option-santali">— ᱯᱮ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_3.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ001" value="4">
+<span class="option-number">4</span><span class="option-santali">— ᱯᱩᱱ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_4.wav')">🔊</button>
+</label>
+</div>
+<div class="question">
+<h3>Question 2</h3>
+<div class="hindi">चार के बाद कौन-सी संख्या आती है?</div>
+<div class="santali-row">
+<div class="santali">ᱯᱩᱱ ᱛᱟᱭᱚᱢ ᱚᱠᱟ ᱟᱸᱠ ᱦᱩᱭ ᱟᱭ?</div>
+<button type="button" class="audio-button" onclick="playAudio('../audio/santali_audio/worksheet/WSQ002_question.wav')">🔊</button>
+</div>
+
+<label class="option">
+<input type="radio" name="WSQ002" value="3">
+<span class="option-number">3</span><span class="option-santali">— ᱯᱮ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_3.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ002" value="4">
+<span class="option-number">4</span><span class="option-santali">— ᱯᱩᱱ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_4.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ002" value="5">
+<span class="option-number">5</span><span class="option-santali">— ᱢᱚᱬᱮ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_5.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ002" value="6">
+<span class="option-number">6</span><span class="option-santali">— ᱛᱩᱨᱩᱭ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_6.wav')">🔊</button>
+</label>
+</div>
+<div class="question">
+<h3>Question 3</h3>
+<div class="hindi">सबसे बड़ी संख्या पर घेरा लगाओ।</div>
+<div class="santali-row">
+<div class="santali">ᱢᱟᱨᱟᱝ ᱟᱸᱠ ᱨᱮ ᱴᱟᱨᱟ ᱮᱦᱚᱵ ᱢᱮ।</div>
+<button type="button" class="audio-button" onclick="playAudio('../audio/santali_audio/worksheet/WSQ003_question.wav')">🔊</button>
+</div>
+
+<label class="option">
+<input type="radio" name="WSQ003" value="3">
+<span class="option-number">3</span><span class="option-santali">— ᱯᱮ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_3.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ003" value="7">
+<span class="option-number">7</span><span class="option-santali">— ᱮᱭᱟᱭ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_7.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ003" value="5">
+<span class="option-number">5</span><span class="option-santali">— ᱢᱚᱬᱮ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_5.wav')">🔊</button>
+</label>
+</div>
+<div class="question">
+<h3>Question 4</h3>
+<div class="hindi">सबसे छोटी संख्या कौन-सी है?</div>
+<div class="santali-row">
+<div class="santali">ᱦᱩᱰᱤᱧ ᱟᱸᱠ ᱚᱠᱟ ᱠᱟᱱᱟ?</div>
+<button type="button" class="audio-button" onclick="playAudio('../audio/santali_audio/worksheet/WSQ004_question.wav')">🔊</button>
+</div>
+
+<label class="option">
+<input type="radio" name="WSQ004" value="8">
+<span class="option-number">8</span><span class="option-santali">— ᱤᱨᱟᱹᱞ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_8.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ004" value="2">
+<span class="option-number">2</span><span class="option-santali">— ᱵᱟᱨ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_2.wav')">🔊</button>
+</label>
+
+<label class="option">
+<input type="radio" name="WSQ004" value="5">
+<span class="option-number">5</span><span class="option-santali">— ᱢᱚᱬᱮ</span>
+<button type="button" class="audio-button" onclick="event.preventDefault(); event.stopPropagation(); playAudio('../audio/santali_audio/numbers/number_5.wav')">🔊</button>
+</label>
+</div>
+<div class="question">
+<h3>Question 5</h3>
+<div class="hindi">संख्या 7 को अंकों में लिखो।</div>
+<div class="santali-row">
+<div class="santali">ᱮᱭᱟᱭ ᱟᱸᱠ ᱚᱞ ᱢᱮ।</div>
+<button type="button" class="audio-button" onclick="playAudio('../audio/santali_audio/worksheet/WSQ005_question.wav')">🔊</button>
+</div>
+
+<input type="text" id="WSQ005" class="text-answer" placeholder="ᱟᱢᱟᱜ ᱛᱮᱞᱟ ᱚᱞ ᱢᱮ">
+</div>
+<button type="button" class="check-button" onclick="checkAnswers()">Submit Answers ✅</button>
+<div id="result" class="result"></div>
+
+<script>
+let currentAudio = null;
+
+function playAudio(path) {
+    if (currentAudio) {
+        currentAudio.pause();
+        currentAudio.currentTime = 0;
+    }
+
+    // Convert the relative path into a browser-safe URL.
+    const audioUrl = new URL(path, window.location.href).href;
+
+    currentAudio = new Audio();
+    currentAudio.preload = "auto";
+    currentAudio.src = audioUrl;
+
+    currentAudio.addEventListener("error", () => {
+        console.error("Audio could not be loaded:", audioUrl, currentAudio.error);
+        alert("Audio file could not be loaded. Please verify the file name and folder structure.");
+    }, { once: true });
+
+    currentAudio.play().catch(error => {
+        console.error("Audio could not be played:", audioUrl, error);
+        alert("Audio could not be played. Open the generated HTML through a local web server if your browser blocks local audio playback.");
+    });
+}
+
+const answers = {
+    "WSQ001": "3",
+    "WSQ002": "5",
+    "WSQ003": "7",
+    "WSQ004": "2",
+    "WSQ005": "7",
+
+};
+
+function checkAnswers() {
+    let score = 0;
+    const totalQuestions = Object.keys(answers).length;
+
+    for (const questionId in answers) {
+        const correctAnswer = answers[questionId];
+        const allOptions = document.querySelectorAll(`input[name="${questionId}"]`);
+
+        if (allOptions.length > 0) {
+            const selectedOption = document.querySelector(`input[name="${questionId}"]:checked`);
+
+            allOptions.forEach(option => {
+                const label = option.parentElement;
+                label.classList.remove("correct-answer", "wrong", "unanswered");
+
+                if (option.value === correctAnswer) {
+                    label.classList.add("correct-answer");
+                } else if (option.checked) {
+                    label.classList.add("wrong");
+                } else {
+                    label.classList.add("unanswered");
+                }
+            });
+
+            if (selectedOption && selectedOption.value === correctAnswer) score++;
+        } else {
+            const textInput = document.getElementById(questionId);
+            if (textInput) {
+                const userAnswer = textInput.value.trim();
+                textInput.classList.remove("correct-answer", "wrong");
+
+                const oldFeedback = document.getElementById(questionId + "_feedback");
+                if (oldFeedback) oldFeedback.remove();
+
+                const feedback = document.createElement("div");
+                feedback.id = questionId + "_feedback";
+                feedback.classList.add("answer-feedback");
+
+                if (userAnswer === correctAnswer) {
+                    textInput.classList.add("correct-answer");
+                    feedback.innerHTML = "✓ Correct Answer";
+                    feedback.classList.add("correct-feedback");
+                    score++;
+                } else {
+                    textInput.classList.add("wrong");
+                    feedback.innerHTML = "✓ Correct Answer: " + correctAnswer;
+                    feedback.classList.add("correct-feedback");
+                }
+
+                textInput.parentNode.appendChild(feedback);
+            }
+        }
+    }
+
+    const percentage = (score / totalQuestions) * 100;
+    document.getElementById("result").innerHTML =
+        "Your Score: " + score + " / " + totalQuestions + "<br>" +
+        percentage.toFixed(0) + "%";
+}
+</script>
+</form>
+</div>
+</body>
+</html>

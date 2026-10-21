@@ -1,0 +1,182 @@
+{
+  "grade": 3,
+  "subject": "Mathematics",
+  "topic": "Counting & Numbers",
+  "learning_objective": "Students will count forward and backward within 20, identify the next and previous number, and recognize number sequences.",
+  "validation_note": "Santali strings are sourced from PALASH DATASET.xlsx where available. New Grade 3 numeric combinations are instructional constructions using digits and source-derived Santali prompts.",
+  "validation_status": "source_derived_instruction_with_verified_source_strings",
+  "content_id": "L-G3-COUNT-001",
+  "title": "Grade 3 Mathematics — Counting & Numbers",
+  "sections": [
+    {
+      "section_id": "L1",
+      "hindi": "1 से 20 तक संख्याओं को पहचानो और गिनो।",
+      "santali_instruction": "ᱢᱤᱫ ᱠᱷᱚᱱ ᱜᱮᱞ ᱫᱷᱟᱹᱵᱤᱡ ᱞᱮᱠᱷᱟ ᱢᱮ ᱾",
+      "source_id": "C027",
+      "numbers": [
+        {
+          "number": 1,
+          "hindi": "एक",
+          "santali": "ᱢᱤᱫ",
+          "source_id": "C071",
+          "validation_status": "verified"
+        },
+        {
+          "number": 2,
+          "hindi": "दो",
+          "santali": "ᱵᱟᱨ",
+          "source_id": "C072",
+          "validation_status": "verified"
+        },
+        {
+          "number": 3,
+          "hindi": "तीन",
+          "santali": "ᱯᱮ",
+          "source_id": "C073",
+          "validation_status": "verified"
+        },
+        {
+          "number": 4,
+          "hindi": "चार",
+          "santali": "ᱯᱩᱱ",
+          "source_id": "C074",
+          "validation_status": "verified"
+        },
+        {
+          "number": 5,
+          "hindi": "पाँच",
+          "santali": "ᱢᱚᱬᱮ",
+          "source_id": "C075",
+          "validation_status": "verified"
+        },
+        {
+          "number": 6,
+          "hindi": "छह",
+          "santali": "ᱛᱩᱨᱩᱭ",
+          "source_id": "C076",
+          "validation_status": "verified"
+        },
+        {
+          "number": 7,
+          "hindi": "सात",
+          "santali": "ᱮᱭᱟᱭ",
+          "source_id": "C077",
+          "validation_status": "verified"
+        },
+        {
+          "number": 8,
+          "hindi": "आठ",
+          "santali": "ᱤᱨᱟᱹᱞ",
+          "source_id": "C078",
+          "validation_status": "verified"
+        },
+        {
+          "number": 9,
+          "hindi": "नौ",
+          "santali": "ᱟᱨᱮ",
+          "source_id": "C079",
+          "validation_status": "verified"
+        },
+        {
+          "number": 10,
+          "hindi": "दस",
+          "santali": "ᱜᱮᱞ",
+          "source_id": "C080",
+          "validation_status": "verified"
+        },
+        {
+          "number": 11,
+          "hindi": "ग्यारह",
+          "santali": "ᱜᱮᱞ ᱢᱤᱫ",
+          "source_id": "C081",
+          "validation_status": "verified"
+        },
+        {
+          "number": 12,
+          "hindi": "बारह",
+          "santali": "ᱜᱮᱞ ᱵᱟᱨ",
+          "source_id": "C082",
+          "validation_status": "verified"
+        },
+        {
+          "number": 13,
+          "hindi": "तेरह",
+          "santali": "ᱜᱮᱞ ᱯᱮ",
+          "source_id": "C083",
+          "validation_status": "verified"
+        },
+        {
+          "number": 14,
+          "hindi": "चौदह",
+          "santali": "ᱜᱮᱞ ᱯᱩᱱ",
+          "source_id": "C084",
+          "validation_status": "verified"
+        },
+        {
+          "number": 15,
+          "hindi": "पंद्रह",
+          "santali": "ᱜᱮᱞ ᱢᱚᱬᱮ",
+          "source_id": "C085",
+          "validation_status": "verified"
+        },
+        {
+          "number": 16,
+          "hindi": "सोलह",
+          "santali": "ᱜᱮᱞ ᱛᱩᱨᱩᱭ",
+          "source_id": "C086",
+          "validation_status": "verified"
+        },
+        {
+          "number": 17,
+          "hindi": "सत्रह",
+          "santali": "ᱜᱮᱞ ᱮᱭᱟᱭ",
+          "source_id": "C087",
+          "validation_status": "verified"
+        },
+        {
+          "number": 18,
+          "hindi": "अठारह",
+          "santali": "ᱜᱮᱞ ᱤᱨᱟᱹᱞ",
+          "source_id": "C088",
+          "validation_status": "verified"
+        },
+        {
+          "number": 19,
+          "hindi": "उन्नीस",
+          "santali": "ᱜᱮᱞ ᱟᱨᱮ",
+          "source_id": "C089",
+          "validation_status": "verified"
+        },
+        {
+          "number": 20,
+          "hindi": "बीस",
+          "santali": "ᱵᱟᱨ ᱜᱮᱞ",
+          "source_id": "C090",
+          "validation_status": "verified"
+        }
+      ]
+    },
+    {
+      "section_id": "L2",
+      "hindi": "आगे की संख्या बताओ।",
+      "santali": "ᱛᱟᱭᱚᱢ ᱫᱟᱨᱟᱢ ᱱᱚᱢᱵᱚᱨ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "source_id": "C029",
+      "examples": [
+        "7 → 8",
+        "12 → 13",
+        "19 → 20"
+      ]
+    },
+    {
+      "section_id": "L3",
+      "hindi": "पिछली संख्या बताओ।",
+      "santali": "ᱢᱩᱪᱟᱹᱫ ᱮᱞ ᱫᱚ ᱞᱟᱹᱭ ᱤᱧᱢᱮ ᱾",
+      "source_id": "C030",
+      "examples": [
+        "8 → 7",
+        "13 → 12",
+        "20 → 19"
+      ]
+    }
+  ]
+}
